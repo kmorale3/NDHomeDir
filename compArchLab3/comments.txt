@@ -1,0 +1,23 @@
+//printf("index pre-shift: dec: %d, hex:%x\n", index, index);
+      index = index >> 5;
+      //printf("index post-shift: dec: %d, hex:%x\n", index, index);
+      /*if ((i == 0) && (j == 0)){
+          printf("Aaddress: %x, index: %d, offset: %x, tag: %x\n", address, index, offset, tag);
+      }
+      if ((i == 99) && (j == 99)){
+          printf("Aaddress: %x, index: %d, offset: %x, tag: %x\n", address, index, offset, tag);
+      }
+      if ((i == 0) && (j == 8)){
+          printf("Aaddress: %x, index: %d, offset: %x, tag: %x\n", address, index, offset, tag);
+      }*/
+      index = index % 1024;
+      //printf("index post-mod: dec: %d, hex:%x\n", index, index);
+      /*if ((i == 0) && (j == 0)){
+          printf("address: %x, index: %d, offset: %x, tag: %x\n", address, index, offset, tag);
+      }
+      if ((i == 99) && (j == 99)){
+          printf("address: %x, index: %d, offset: %x, tag: %x\n", address, index, offset, tag);
+      }
+      if ((i == 0) && (j == 8)){
+          printf("address: %x, index: %d, offset: %x, tag: %x\n", address, index, offset, tag);
+      }*/

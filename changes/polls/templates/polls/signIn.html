@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Sign In</title>
+    </head>
+    <h1>
+        Sign In
+    </h1>
+    <body>
+        <!-- DONT FORGET TO REPLACE TINDER LOGO W TIN DEV LOGO -->
+        <p> 
+            <img src="https://logos-world.net/wp-content/uploads/2020/09/Tinder-Logo.png" alt="TinDevLogo" height = "75" width = "150">
+        </p>
+        
+        Welcome to TinDev! Please enter your username and password.
+
+        <form role="form">
+            <p>
+                <b>Username: </b>
+                <input type="text" id="username" name="username" maxlength="15">
+            </p>
+            <p>
+                <b>Password:  </b>
+                <input type="password" id="password" name="password" maxlength="20">
+            </p>
+            <p>
+                <button type="submit" name="signIn">Enter</button>
+            </p>
+            {% if messages %}
+            <ul class="messages">
+                {% for message in messages %}
+                <li {% if message.tags %} class="{{ message.tags }}"{% endif %}, style="color:#ff5050;">{{ message }}</li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+        </form>
+    </body>
+</html>

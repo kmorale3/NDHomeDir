@@ -1,0 +1,56 @@
+multiply_stats.txt:simoutorder_multiply_output.txt:sim_CPI                      2.2519                 # cycles per instruction
+multiply_stats.txt:simoutorder_output.txt:sim_CPI                               1.9442                 # cycles per instruction
+simoutorder_multiply_output.txt:sim_CPI                      2.2519 # cycles per instruction
+simoutorder_output.txt:sim_CPI                      1.9442 # cycles per instruction
+multiply_stats.txt:simoutorder_multiply_output.txt:sim_IPC                      0.4441                 # instructions per cycle
+multiply_stats.txt:simoutorder_output.txt:sim_IPC                               0.5143                 # instructions per cycle
+simoutorder_multiply_output.txt:sim_IPC                      0.4441 # instructions per cycle
+simoutorder_output.txt:sim_IPC                      0.5143 # instructions per cycle
+multiply_stats.txt:simoutorder_multiply_output.txt:sim_num_insn                 264193456              # total number of instructions committed
+multiply_stats.txt:simoutorder_output.txt:sim_num_insn                          257817812              # total number of instructions committed
+simoutorder_multiply_output.txt:sim_num_insn              264193456 # total number of instructions committed
+simoutorder_output.txt:sim_num_insn              257817812 # total number of instructions committed
+multiply_stats.txt:simoutorder_multiply_output.txt:sim_num_loads                53741315               # total number of loads committed
+multiply_stats.txt:simoutorder_output.txt:sim_num_loads                         47539464               # total number of loads committed
+simoutorder_multiply_output.txt:sim_num_loads              53741315 # total number of loads committed
+simoutorder_output.txt:sim_num_loads              47539464 # total number of loads committed
+multiply_stats.txt:simoutorder_multiply_output.txt:sim_num_stores               8399553.0000           # total number of stores committed
+multiply_stats.txt:simoutorder_output.txt:sim_num_stores                        5288982.0000           # total number of stores committed
+simoutorder_multiply_output.txt:sim_num_stores         8399553.0000 # total number of stores committed
+simoutorder_output.txt:sim_num_stores         5288982.0000 # total number of stores committed
+multiply_stats.txt:simoutorder_multiply_output.txt:sim_num_branches             4255143                # total number of branches committed
+multiply_stats.txt:simoutorder_output.txt:sim_num_branches                      1125264                # total number of branches committed
+simoutorder_multiply_output.txt:sim_num_branches            4255143 # total number of branches committed
+simoutorder_output.txt:sim_num_branches            1125264 # total number of branches committed
+multiply_stats.txt:simoutorder_multiply_output.txt:dl1.accesses                 62140868               # total number of accesses
+multiply_stats.txt:simoutorder_output.txt:dl1.accesses                          52828446               # total number of accesses
+simoutorder_multiply_output.txt:dl1.accesses               62140868 # total number of accesses
+simoutorder_output.txt:dl1.accesses               52828446 # total number of accesses
+multiply_stats.txt:simoutorder_multiply_output.txt:dl1.hits                     57238912               # total number of hits
+multiply_stats.txt:simoutorder_output.txt:dl1.hits                              49341181               # total number of hits
+simoutorder_multiply_output.txt:dl1.hits                   57238912 # total number of hits
+simoutorder_output.txt:dl1.hits                   49341181 # total number of hits
+multiply_stats.txt:simoutorder_multiply_output.txt:dl1.misses                   4901956                # total number of misses
+multiply_stats.txt:simoutorder_output.txt:dl1.misses                            3487265                # total number of misses
+simoutorder_multiply_output.txt:dl1.misses                  4901956 # total number of misses
+simoutorder_output.txt:dl1.misses                  3487265 # total number of misses
+multiply_stats.txt:simoutorder_multiply_output.txt:dl1.miss_rate                0.0789                 # miss rate (i.e., misses/ref)
+multiply_stats.txt:simoutorder_output.txt:dl1.miss_rate                         0.0660                 # miss rate (i.e., misses/ref)
+simoutorder_multiply_output.txt:dl1.miss_rate                0.0789 # miss rate (i.e., misses/ref)
+simoutorder_output.txt:dl1.miss_rate                0.0660 # miss rate (i.e., misses/ref)
+multiply_stats.txt:simoutorder_multiply_output.txt:il1.accesses                 293111879              # total number of accesses
+multiply_stats.txt:simoutorder_output.txt:il1.accesses                          265213094              # total number of accesses
+simoutorder_multiply_output.txt:il1.accesses              293111879 # total number of accesses
+simoutorder_output.txt:il1.accesses              265213094 # total number of accesses
+multiply_stats.txt:simoutorder_multiply_output.txt:il1.hits                     293109476              # total number of hits
+multiply_stats.txt:simoutorder_output.txt:il1.hits                              265210644              # total number of hits
+simoutorder_multiply_output.txt:il1.hits                  293109476 # total number of hits
+simoutorder_output.txt:il1.hits                  265210644 # total number of hits
+multiply_stats.txt:simoutorder_multiply_output.txt:il1.misses                   2403                   # total number of misses
+multiply_stats.txt:simoutorder_output.txt:il1.misses                            2450                   # total number of misses
+simoutorder_multiply_output.txt:il1.misses                     2403 # total number of misses
+simoutorder_output.txt:il1.misses                     2450 # total number of misses
+multiply_stats.txt:simoutorder_multiply_output.txt:il1.miss_rate                0.0000                 # miss rate (i.e., misses/ref)
+multiply_stats.txt:simoutorder_output.txt:il1.miss_rate                         0.0000                 # miss rate (i.e., misses/ref)
+simoutorder_multiply_output.txt:il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)
+simoutorder_output.txt:il1.miss_rate                0.0000 # miss rate (i.e., misses/ref)

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Signed In - {{ user.name }}</title>
+         <!-- include the link to Bootstrap -->
+         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    </head>
+    <body>
+        <style>
+            .btn {font-family: georgia, serif;}
+            hr {border: 1.5px dashed #2a304d;; width: 2000px}
+            #content {font-family: georgia, serif;}
+        </style>
+        <!-- navigation bar with the user's name and a sign out button -->
+        <nav class="navbar navbar-light" style="background-color:#2a304d;">
+            <h4 class="nav-bar-title">Welcome Candidate, {{ user.name }}</h4>
+            <form class="form-inline">
+                <style>
+                    .nav-bar-title {color: white; font-family: georgia, serif;}
+                </style>
+                <a class = "btn btn-light btn-outline-info" style = "margin: 5px" type="button" href="/polls/offers..">
+                    <img src="https://img.icons8.com/pastel-glyph/2x/papers--v2.png" height="20" width="20">
+                    View Offers
+                </a>
+                <a class = "btn btn-lg btn-light btn-outline-info" type="button" name="signOut" href="/polls/" >
+                    <img src="https://img.icons8.com/external-tanah-basah-detailed-outline-tanah-basah/2x/external-sign-out-user-interface-tanah-basah-detailed-outline-tanah-basah.png" width="25" height="25">
+                    Sign Out
+                </a>
+            </form>
+        </nav>
+
+
+        <nav  class="navbar navbar-light" style="background-color:#dd4a75;">
+            <form class = "form-inline">
+                <a class = "btn btn-light btn-outline-info" type="button" href="/polls/allPostsCandidate">All Posts</a>
+                <a class = "btn btn-light btn-outline-info" style = "margin:5px" type="button" href="/polls/activePostsCandidates">Active Posts</a>
+                <a class = "btn btn-light btn-outline-info" type="button" href="/polls/inactivePostsCandidates">Inactive Posts</a>
+                <a class = "btn btn-light btn-outline-info" style = "margin:5px" type="button" href="/polls/interestedPostsCandidates">Posts with Interested Candidates</a>
+            </form>            
+        </nav>
+
+        <hr>
+
+        <div id="content">
+            {% block content %}{% endblock %}
+        </div>
+    </body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>
+        Flask
+    </title>
+</head>
+
+<body>
+    Today's date is <span id='date'></span>
+    <script>
+        const dateElement = document.getElementById('date');
+        const currDate = new Date();
+        dateElement.textContent = currentDate.toLocalDateString();
+    </script>
+
+<form action="/index" method="POST">
+    Enter your name: <input type="text" name="name">
+    Enter your age: <input type="text" name="age">
+    <input type="submit" value="Submit">
+</form>
+
+<p>Here's the Data!</p>
+<ul>
+    {% for item in data%}
+        <li> {{item[0]}}, {{item[1]}}</li>
+    {% endfor %}
+</ul>
+
+</body>
+
+</html>

@@ -1,0 +1,19 @@
+// .text
+@0000 7af0 // ldi r10, 240
+@0001 7008 // ldi r0, 8
+@0002 5aa0 // shl r10, r10, r0
+@0003 7040 // ldi r0, 64
+@0004 3ca0 // or r12, r10, r0
+@0005 70ab // ldi r0, 171
+@0006 900c // st r0, r12, 0
+@0007 70cd // ldi r0, 205
+@0008 910c // st r0, r12, 1
+@0009 930c // st r0, r12, 3
+@000a 824c // ld r2, r12, 4    label: loop
+@000b b022 // bz r2, 2    target label: finish
+@000c afe0 // br -2    target label: loop
+@000d 832c // ld r3, r12, 2    label: finish
+@000e 923a // st r3, r10, 2
+@000f f000 // sys 0
+
+// .data

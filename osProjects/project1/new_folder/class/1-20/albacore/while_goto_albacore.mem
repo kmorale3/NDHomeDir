@@ -1,0 +1,11 @@
+// .text
+@0000 7103 // ldi r1, 3
+@0001 7200 // ldi r2, 0
+@0002 c041 // bn r1, 4    label: loop_cond    target label: loop_exit
+@0003 7001 // ldi r0, 1
+@0004 1110 // sub r1, r1, r0
+@0005 afd0 // br -3    target label: loop_cond
+@0006 72ff // ldi r2, 255    label: loop_exit
+@0007 f000 // sys 0
+
+// .data

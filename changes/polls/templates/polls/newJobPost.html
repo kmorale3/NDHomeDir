@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Login</title>
+    </head>
+    <body>
+    <h1> New Job Posting</h1>
+    <p>
+        Fields marked with * are required
+    </p>
+    <form role="form">
+        <p>
+            *Position Title
+            <input type="text" id="positionTitle" name="positionTitle">
+        </p>
+        <p>
+            *Job Type
+            <input type="text" id="jobType" name="jobType">
+        </p>
+        <p>
+            *City 
+            <input type="text" id="cityLocation" name="cityLocation" maxlength="30">
+        </p>
+        <p>
+            *State
+            <input type="text" id="stateLocation" name="stateLocation" maxlength="30">
+        </p>
+        <p>
+            *Preferred Skills
+            <input type="text" id="preferredSkills" name="preferredSkills" maxlength="400">
+        </p>
+        <p>
+            *Job Description
+            <input type="text" id="jobDescription" name="jobDescription" maxlength="1000">
+        </p>
+        <p>
+            *Expiration Date
+            <input type="date" id="expirationDate" name="expirationDate" maxlength="15">
+        </p>
+        <p>
+            *Status
+            <input type="text" id="status" name="status" maxlength="10">
+        </p>
+        
+        <button type="submit" name="create_post">Post</button>
+        {% if messages %}
+        <ul class="messages">
+            {% for message in messages %}
+            <li {% if message.tags %} class="{{ message.tags }}"{% endif %}, style="color:#ff5050;">{{ message }}</li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+    </form>
+    </body>
+</html>

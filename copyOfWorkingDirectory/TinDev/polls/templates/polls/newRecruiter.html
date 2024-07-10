@@ -1,0 +1,115 @@
+<head>
+    <meta charset="utf-8">
+    <title>New Recruiter</title>
+    <!-- include the link to Bootstrap -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+<body>
+    <!-- Responsive navigation bar from Bootstrap - to go back to home if the user wants to-->
+
+    <nav class="navbar navbar-light" style="background-color:#2a304d;">
+        <h4 class="nav-bar-title">TinDev</h4>
+        <form class="form-inline">
+         <!-- create a new candidate account -->
+         <a class="btn btn-light btn-outline-info" type="button" href="/polls/newCandidate">Create New Candidate Profile</a>
+
+          <a class="btn btn-light btn-lg btn-outline-info" type="button" style="margin:5px" href="/polls/" >
+            <img src="https://img.icons8.com/ios/2x/home-page.png" width="25" height="25">
+          Return Home
+
+          <a class="btn btn-light btn-lg btn-outline-info" type="button" href="/polls/signIn" >
+              <img src="https://img.icons8.com/puffy/2x/experimental-enter-2-puffy.png" width="20" height="20">
+            Sign In
+        </a>
+          
+        </form>
+      </nav>
+
+    <!-- <nav class="navbar navbar-light" style="background-color: #dd4a75;">
+        <form class="form-inline">
+            <a class="btn btn-light btn-outline-dark" type="button" href="/polls/" >Return Home</a>
+            <a class="btn btn-light btn-outline-dark" type="button" href="/polls/signIn" >Sign In</a>
+            <a class="btn btn-light btn-outline-dark" type="button" href="/polls/newCandidate">Create New Candidate Profile</a>
+        </form>
+    </nav> -->
+<h1> New Recruiter</h1>
+<style>
+    h1 {font-family: georgia, serif;}
+    p {font-family: georgia, serif;}
+    label {font-family: georgia, serif;}
+    .nav-bar-title {color: white; font-family: georgia, serif;}
+</style>
+<div class="mx-auto" style="width: 1330px;">
+    <p>
+        * All fields are required.
+    </p>
+</div>
+
+<div class="row">
+    <div class="mx-auto" style="width: 1330px;">
+        <form role="form">
+            <div class="form-row">
+
+                <div class="form-group col-md-6">
+                  <label for="firstname"><b>*First Name</b></label>
+                  <input type="text" class="form-control" id="fname" name="fname" maxlength="75" placeholder="Enter your first name.">
+                </div>
+
+                <div class="form-group col-md-6">
+                    <label for="lastname"><b>*Last Name</b></label>
+                    <input type="text" class="form-control" id="lname" name="lname" maxlength="75" placeholder="Enter your last name.">
+                </div>
+
+                <div class="form-group col-md-4">
+                    <label for="Zipcode"><b>*Zipcode</b></label>
+                    <input type="text" class="form-control" id="zipcode" name="zipcode" maxlength="15" placeholder="#####">
+                </div>
+
+                <div class="form-group col-md-8">
+                    <label for="company"><b>*Company</b></label>
+                    <input type="text" class="form-control" id="company" name="company" maxlength="500" placeholder="Enter information about the company.">
+                </div>
+
+                 <!-- horizontal line between the other blanks and the username/password blanks -->
+            <hr> 
+
+            <style>
+                hr {border: 1.5px dashed #dd4a75;
+                width: 2000px}
+            </style>
+
+
+            <div class="form-group col-md-6">
+                <label for="username"><b>*Username</b></label>
+                <input type="text" class="form-control" id="username" name="username" maxlength="15" placeholder="Choose a username.">
+            </div>
+
+            <div class="form-group col-md-6">
+                <label for="password"><b>*Password</b></label>
+                <input type="password" class="form-control" id="password1" name="password1" maxlength="20" placeholder="Choose a safe password.">
+            </div>
+
+            <!-- button for sign up -->
+            <div class="form-group col-md-6">
+                <br> <button class = "btn btn-lg btn-light btn-outline-light" type="submit" name="create_account" style="background-color: #dd4a75;">Create Account</button>
+            </div>
+
+            <div class="form-group col-md-6">
+                <label for="confirmPassword"><b>*Please Confirm Password</b></label>
+                <input type="password" class="form-control" id="password2" name="password2" maxlength="20" placeholder="Confirm your password.">
+            </div>
+
+            </div>
+            
+            {% if messages %}
+            <ul class="messages">
+                {% for message in messages %}
+                <li {% if message.tags %} class="{{ message.tags }}"{% endif %}, style="color:#ff5050;">{{ message }}</li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+        </form>
+    </div>
+</div>
+</body>
+</html>

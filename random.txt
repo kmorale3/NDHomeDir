@@ -1,0 +1,4 @@
+select applicant.ID as currID, concat(applicant.first,' ', applicant.last), applicant.email, concat(admin.first,' ', admin.last), IF(isnull(applicant.reviewerID), "no reviewer assigned", (select concat(faculty.first, " ", faculty.last) from applicant, faculty where applicant.reviewerID = faculty.ID and applicant.ID = currID)), IFNULL(decisionToInvite, "undecided"), IFNULL(decisionToAdmit, "undecided"), lpad(applicant.ID, 9, 0) from applicant, admin where applicant.adminID = admin.ID and applicant.isInactive = 0;
+
+select applicant.ID, concat(applicant.first,' ', applicant.last), applicant.email, concat(admin.first,' ', admin.last), IF(isnull(applicant.reviewerID), "no reviewer assigned", (select concat(faculty.first, " ", faculty.last) from applicant, faculty where applicant.reviewerID = faculty.ID)), IFNULL(decisionToInvite, "undecided"), IFNULL(decisionToAdmit, "undecided") from applicant, admin where applicant.adminID = admin.ID and applicant.isInactive = 0;
+

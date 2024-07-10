@@ -1,0 +1,37 @@
+{% extends "polls/candidateHome.html" %}
+{% block title %}{{ user.name }}{% endblock %}
+{% block content %}
+        {% csrf_token %}
+        <fieldset>
+            {% if error_message %}.
+                <p><strong>{{ error_message }}</strong></p>
+            {% endif %}
+            {% for job in jobs %}
+            <form role="form">
+            <span class = "badge badge-light badge-outline-info"  name="detailedView" value="{{job.id}}">
+                <p><b>Position Title: {{job.positionTitle}}</b></p>
+                <p>Company: {{job.company}}</p>
+                {% if job.status == 1 %}
+                <p>Status: Active</p>
+                {% endif %}
+                {% if job.status == 0 %}
+                <p>Status: Inactive</p>
+                {% endif %}
+                {% if job.jobType == 1 %}
+                    <p>Job Type: Part-Time</p>
+                {% endif %}
+                {% if job.jobType == 0 %}
+                    <p>Job Type: Full-Time</p>
+                {% endif %}
+                <p>Compatibility: {{job.compScore}}%</p>
+                <button type="submit" name="mark_interest" value="{{job.id}}">Mark me as interested!</button>
+            </span>
+            <p> </p>
+            </form>
+            {% endfor %}
+            {% if not jobs %}
+            <p>No Jobs Posted Yet</p>
+            {% endif %}
+        </fieldset>
+    </form>
+{% endblock %}

@@ -1,0 +1,38 @@
+{% extends "polls/recruiterHome.html" %}
+{% block title %}{{ user.fname }}{{ user.lname }}{% endblock %}
+{% block content %}
+        {% csrf_token %}
+        <fieldset>
+            {% if error_message %}.
+                <p><strong>{{ error_message }}</strong></p>
+            {% endif %}
+            {% for job in jobs %}
+            <form role="form">
+            <span class = "badge badge-light badge-outline-info"  name="detailedView" value="{{job.id}}">
+                <p><b>Position Title: {{job.positionTitle}}</b></p>
+                <p>Company: {{job.company}}</p>
+                {% if job.status == 1 %}
+                <p>Status: Active</p>
+                {% endif %}
+                {% if job.status == 0 %}
+                <p>Status: Inactive</p>
+                {% endif %}
+                {% if job.jobType == 1 %}
+                    <p>Job Type: Part-Time</p>
+                {% endif %}
+                {% if job.jobType == 0 %}
+                    <p>Job Type: Full-Time</p>
+                {% endif %}
+                <button class = "btn btn-light btn-outline-info" type="submit"  name="detailedView" value="{{job.id}}">Edit</button>
+                <p>Interested Candidates: {{job.numInterestCands}}</p>
+                <button class = "btn btn-light btn-outline-info" type="submit"  name="interestedCands" value="{{job.id}}">See Interested Candidates</button>
+            </span>
+            <p> </p>
+            </form>
+            {% endfor %}
+            {% if not jobs %}
+            <p>No Jobs Posted Yet</p>
+            {% endif %}
+        </fieldset>
+    </form>
+{% endblock %}

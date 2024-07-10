@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>TinDev</title>
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+        <!-- include the link to Bootstrap -->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    </head>
+    <body>
+        <!-- Responsive navigation bar from Bootstrap -->
+        <nav class="navbar navbar-light" style="background-color: #dd4a75;">
+            <form class="form-inline">
+              <a class="btn btn-light btn-lg btn-outline-dark" type="button" href="/polls/signIn" >Sign In</a>
+              <!-- will link back to the current home page: -->
+              <a class="btn btn-light btn-outline-dark" type="button" href="/polls/">Home Page</a>
+              <!-- will link to a page describing all of us in the team: -->
+              <a class="btn btn-light btn-outline-dark" type="button" href="">About the Team</a>
+            </form>
+          </nav>
+
+        <!-- Header - gradient background image made by Monica and TinDev logo in a circle in the center -->
+        <!-- <header class="py-5 bg-image-full" src = "images/gradient_bg.jpg"> // HEADER IMAGES NOT FULLY FUNCTIONAL -->
+            <div class="text-center my-5">
+                <img class="img-fluid rounded-circle mb-4" src="images/TinDev_logo.jpg" />
+                <h1 class="text-white fs-3 fw-bolder">Welcome to TinDev!</h1>
+            </div>
+        </header>
+        <!-- Content section-->
+        <section class="py-5">
+            <div class="container my-3">
+                <div class="row justify-content-center">
+                    <div class="col-lg-6">
+                        <h2 class="text-center">Want a new, innovative way to meet recruiters or employees?</h2>
+                        <h5 class="text-center"><b>TinDev does just that!</b></h5>
+                        <!-- the following text content is from the Elevator pitch from our Project Description Doc -->
+                        <p class="text-center">"At its core, TinDev is meant to disrupt and innovate the recruiting process. It aims to facilitate the process of finding the perfect match for a technical position, whether it is a Software Engineering, Quality Engineering, or Full Stack Developer positions."</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div class="container my-8">
+            <div class="row justify-content-center">
+                <div class="col-lg-6">
+                    <h6 class="text-center"><b><i>Not a User? Create an Account.</i></b></h6>
+                    <section>
+                        <a type="button" class="btn btn-lg btn-block btn-outline-light" style="background-color: #dd4a75;" href="/polls/newCandidate">Create New Candidate Profile</a>
+                        <a type="button" class="btn btn-lg btn-block btn-outline-light" style="background-color: #dd4a75;" href="/polls/newRecruiter">Create New Recruiter Profile</a>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

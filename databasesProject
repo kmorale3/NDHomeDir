@@ -1,0 +1,1032 @@
+INSERT into applicant (ID, adminID, year, semester) values (253123574, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (253123574, 'Last', 'Yutra');
+INSERT into applicantData (ID, category, data) values (253123574, 'First', 'Abel Zenebe');
+INSERT into applicantData (ID, category, data) values (253123574, 'Email', 'abikab2022@gmail.com');
+INSERT into applicantData (ID, category, data) values (253123574, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (253123574, 'Citizenship Country', 'Nigeria');
+INSERT into applicantData (ID, category, data) values (253123574, 'Area Of Study', 'Security and Cryptography');
+INSERT into applicantData (ID, category, data) values (253123574, 'App - Faculty Advisor Name', 'Diego Gómez-Zará, Adam Czajka, Spyridon Mastorakis');
+INSERT into applicantData (ID, category, data) values (253123574, 'School 1 Institution', 'IMO STATE UNIVERSITY');
+INSERT into applicantData (ID, category, data) values (253123574, 'Missing Checklist Items (line break)', 'Application Fee
+Ikechukwu Nwamba, imo state university
+Post Submission (not required, is optional)');
+INSERT into applicantData (ID, category, data) values (253123574, 'Application Status', 'Awaiting Submission');
+INSERT into applicantData (ID, category, data) values (253123574, 'App - Faculty Advisor Name.1', 'Diego Gómez-Zará, Adam Czajka, Spyridon Mastorakis');
+INSERT into applicant (ID, adminID, year, semester) values (298205097, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (298205097, 'Last', 'Zhang');
+INSERT into applicantData (ID, category, data) values (298205097, 'First', 'Shuibai');
+INSERT into applicantData (ID, category, data) values (298205097, 'Email', 'jasmineabtahi@gmail.com');
+INSERT into applicantData (ID, category, data) values (298205097, 'Sex', 'F');
+INSERT into applicantData (ID, category, data) values (298205097, 'Ethnicity (New)', 'Not Hispanic or Latino');
+INSERT into applicantData (ID, category, data) values (298205097, 'Citizenship Country', 'Iran');
+INSERT into applicantData (ID, category, data) values (298205097, 'Area Of Study', 'Security, Privacy, and Cryptography');
+INSERT into applicantData (ID, category, data) values (298205097, 'App - Faculty Advisor Name', 'Taeho Jung');
+INSERT into applicantData (ID, category, data) values (298205097, 'School 1 Institution', 'Seoul National University');
+INSERT into applicantData (ID, category, data) values (298205097, 'Missing Checklist Items (line break)', 'Post Submission
+Post Submission (not required, is optional)');
+INSERT into applicantData (ID, category, data) values (298205097, 'Application Status', 'Decided');
+INSERT into applicantData (ID, category, data) values (298205097, 'App - Faculty Advisor Name.1', 'Taeho Jung');
+INSERT into applicantData (ID, category, data) values (298205097, 'Department Recommendation', 'Approve');
+INSERT into applicant (ID, adminID, year, semester) values (614143777, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (614143777, 'Last', 'Zhu');
+INSERT into applicantData (ID, category, data) values (614143777, 'First', 'Wenbo');
+INSERT into applicantData (ID, category, data) values (614143777, 'Email', 'aruna.adeniyi@uniosun.edu.ng');
+INSERT into applicantData (ID, category, data) values (614143777, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (614143777, 'Citizenship Country', 'Nigeria');
+INSERT into applicantData (ID, category, data) values (614143777, 'Area Of Study', 'AI and Machine Learning');
+INSERT into applicantData (ID, category, data) values (614143777, 'App - Faculty Advisor Name', 'Danny Chen, Tijana Milenkovic, Yanfang (Fanny) Ye');
+INSERT into applicantData (ID, category, data) values (614143777, 'School 1 Institution', 'University of Ilorin');
+INSERT into applicantData (ID, category, data) values (614143777, 'Missing Checklist Items (line break)', 'Application Fee
+Jelil Alamu, Osun State University, P.M.B 4494, Osogbo, Nigeria
+Olukayode Adebimpe, First Technical University, Ibadan, Nigeria
+Post Submission (not required, is optional)
+Statement of Intent');
+INSERT into applicantData (ID, category, data) values (614143777, 'Application Status', 'Awaiting Submission');
+INSERT into applicantData (ID, category, data) values (614143777, 'App - Faculty Advisor Name.1', 'Danny Chen, Tijana Milenkovic, Yanfang (Fanny) Ye');
+INSERT into applicant (ID, adminID, year, semester) values (483255483, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (483255483, 'Last', 'Zhu');
+INSERT into applicantData (ID, category, data) values (483255483, 'First', 'Zhicong');
+INSERT into applicantData (ID, category, data) values (483255483, 'Email', 'nanaagyei750@gmail.com');
+INSERT into applicantData (ID, category, data) values (483255483, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (483255483, 'Citizenship Country', 'Ghana');
+INSERT into applicantData (ID, category, data) values (483255483, 'Area Of Study', 'Human Computer Interaction');
+INSERT into applicantData (ID, category, data) values (483255483, 'App - Faculty Advisor Name', 'Metoyer Ronald, Cleland-Huang Jane, McMillan Collin');
+INSERT into applicantData (ID, category, data) values (483255483, 'School 1 Institution', 'BlueCrest College');
+INSERT into applicantData (ID, category, data) values (483255483, 'Missing Checklist Items (line break)', 'Post Submission (not required, is optional)');
+INSERT into applicantData (ID, category, data) values (483255483, 'Application Status', 'Awaiting Decision');
+INSERT into applicantData (ID, category, data) values (483255483, 'App - Faculty Advisor Name.1', 'Metoyer Ronald, Cleland-Huang Jane, McMillan Collin');
+INSERT into applicant (ID, adminID, year, semester) values (475292542, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (475292542, 'Last', 'Zhuang');
+INSERT into applicantData (ID, category, data) values (475292542, 'First', 'Haomin');
+INSERT into applicantData (ID, category, data) values (475292542, 'Email', 'advanessa141@gmail.com');
+INSERT into applicantData (ID, category, data) values (475292542, 'Sex', 'F');
+INSERT into applicantData (ID, category, data) values (475292542, 'Citizenship Country', 'Ghana');
+INSERT into applicantData (ID, category, data) values (475292542, 'Area Of Study', 'Security, Privacy, and Cryptography');
+INSERT into applicantData (ID, category, data) values (475292542, 'Missing Checklist Items (line break)', 'Application Fee
+Post Submission (not required, is optional)
+Statement of Intent');
+INSERT into applicantData (ID, category, data) values (475292542, 'Application Status', 'Awaiting Submission');
+INSERT into applicant (ID, adminID, year, semester) values (519942431, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (519942431, 'Last', 'Zhuang');
+INSERT into applicantData (ID, category, data) values (519942431, 'First', 'Haomin');
+INSERT into applicantData (ID, category, data) values (519942431, 'Email', 'isaacaduyirenkyi@gmail.com');
+INSERT into applicantData (ID, category, data) values (519942431, 'Area Of Study', 'Computer Vision, Medical Imaging, and Biometrics');
+INSERT into applicantData (ID, category, data) values (519942431, 'Missing Checklist Items (line break)', 'Application Fee
+CV/Resume
+Post Submission (not required, is optional)
+Statement of Intent
+TOEFL or IELTS or Duolingo');
+INSERT into applicantData (ID, category, data) values (519942431, 'Application Status', 'Awaiting Submission');
+INSERT into applicant (ID, adminID, year, semester) values (986298855, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (986298855, 'Last', 'Aazore');
+INSERT into applicantData (ID, category, data) values (986298855, 'First', 'Fred Kwadwo');
+INSERT into applicantData (ID, category, data) values (986298855, 'Email', 'oluwafemiakinnawo@gmail.com');
+INSERT into applicantData (ID, category, data) values (986298855, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (986298855, 'Citizenship Country', 'Nigeria');
+INSERT into applicantData (ID, category, data) values (986298855, 'Area Of Study', 'AI and Machine Learning');
+INSERT into applicantData (ID, category, data) values (986298855, 'App - Faculty Advisor Name', 'Kevin Bowyer, Adam Czajka, Patrick Flynn');
+INSERT into applicantData (ID, category, data) values (986298855, 'School 1 Institution', 'Bells university of Technology');
+INSERT into applicantData (ID, category, data) values (986298855, 'Missing Checklist Items (line break)', 'Application Fee
+Oluwatobi Balogun, Bells University of Technology Ota
+Post Submission (not required, is optional)');
+INSERT into applicantData (ID, category, data) values (986298855, 'Application Status', 'Awaiting Submission');
+INSERT into applicantData (ID, category, data) values (986298855, 'App - Faculty Advisor Name.1', 'Kevin Bowyer, Adam Czajka, Patrick Flynn');
+INSERT into applicant (ID, adminID, year, semester) values (453052722, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (453052722, 'Last', 'Abika');
+INSERT into applicantData (ID, category, data) values (453052722, 'First', 'Osinachi');
+INSERT into applicantData (ID, category, data) values (453052722, 'Email', 'fidele.allarate@aims-cameroon.org');
+INSERT into applicantData (ID, category, data) values (453052722, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (453052722, 'Area Of Study', 'AI and Machine Learning');
+INSERT into applicantData (ID, category, data) values (453052722, 'Missing Checklist Items (line break)', 'Application Fee
+CV/Resume
+Post Submission (not required, is optional)
+Statement of Intent
+TOEFL or IELTS or Duolingo');
+INSERT into applicantData (ID, category, data) values (453052722, 'Application Status', 'Awaiting Submission');
+INSERT into applicant (ID, adminID, year, semester) values (218290770, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (218290770, 'Last', 'Abtahi');
+INSERT into applicantData (ID, category, data) values (218290770, 'First', 'Yasaman');
+INSERT into applicantData (ID, category, data) values (218290770, 'Email', 'danielkwameamissah@gmail.com');
+INSERT into applicantData (ID, category, data) values (218290770, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (218290770, 'Citizenship Country', 'Ghana');
+INSERT into applicantData (ID, category, data) values (218290770, 'Area Of Study', 'Computer Vision, Medical Imaging, and Biometrics');
+INSERT into applicantData (ID, category, data) values (218290770, 'App - Faculty Advisor Name', 'Bowyer, Kevin, Chen, Danny, Flynn, Patrick');
+INSERT into applicantData (ID, category, data) values (218290770, 'School 1 Institution', 'University of Ghana');
+INSERT into applicantData (ID, category, data) values (218290770, 'Missing Checklist Items (line break)', 'Application Fee
+Post Submission (not required, is optional)');
+INSERT into applicantData (ID, category, data) values (218290770, 'Application Status', 'Awaiting Materials');
+INSERT into applicantData (ID, category, data) values (218290770, 'App - Faculty Advisor Name.1', 'Bowyer, Kevin, Chen, Danny, Flynn, Patrick');
+INSERT into applicant (ID, adminID, year, semester) values (806548953, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (806548953, 'Last', 'Adeniyi');
+INSERT into applicantData (ID, category, data) values (806548953, 'First', 'Aruna');
+INSERT into applicantData (ID, category, data) values (806548953, 'Email', 'samuelamoah81@gmail.com');
+INSERT into applicantData (ID, category, data) values (806548953, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (806548953, 'Citizenship Country', 'Ghana');
+INSERT into applicantData (ID, category, data) values (806548953, 'Area Of Study', 'Human Computer Interaction');
+INSERT into applicantData (ID, category, data) values (806548953, 'School 1 Institution', 'University of Cape Coast');
+INSERT into applicantData (ID, category, data) values (806548953, 'Missing Checklist Items (line break)', 'Application Fee
+CV/Resume
+Post Submission (not required, is optional)
+Statement of Intent');
+INSERT into applicantData (ID, category, data) values (806548953, 'Application Status', 'Awaiting Submission');
+INSERT into applicant (ID, adminID, year, semester) values (956539442, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (956539442, 'Last', 'Adjei');
+INSERT into applicantData (ID, category, data) values (956539442, 'First', 'Clifford');
+INSERT into applicantData (ID, category, data) values (956539442, 'Email', 'drewapprey@gmail.com');
+INSERT into applicantData (ID, category, data) values (956539442, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (956539442, 'Citizenship Country', 'Ghana');
+INSERT into applicantData (ID, category, data) values (956539442, 'Area Of Study', 'AI and Machine Learning');
+INSERT into applicantData (ID, category, data) values (956539442, 'School 1 Institution', 'Kwame Nkrumah Unv. of Sci.&Tec');
+INSERT into applicantData (ID, category, data) values (956539442, 'Missing Checklist Items (line break)', 'Application Fee
+CV/Resume
+David Wemegah, Kwame Nkrumah University of Science and Technology
+Francis Ampong, Kwame Nkrumah University of Science and Technology
+Isaac Nkrumah, Kwame Nkrumah University of Science and Technology
+Post Submission (not required, is optional)
+Statement of Intent');
+INSERT into applicantData (ID, category, data) values (956539442, 'Application Status', 'Awaiting Submission');
+INSERT into applicant (ID, adminID, year, semester) values (266663642, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (266663642, 'Last', 'Adjei');
+INSERT into applicantData (ID, category, data) values (266663642, 'First', 'Vanessa');
+INSERT into applicantData (ID, category, data) values (266663642, 'Email', 'richmondasio@hotmail.com');
+INSERT into applicantData (ID, category, data) values (266663642, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (266663642, 'Citizenship Country', 'Ghana');
+INSERT into applicantData (ID, category, data) values (266663642, 'Area Of Study', 'Assistive Technologies');
+INSERT into applicantData (ID, category, data) values (266663642, 'App - Faculty Advisor Name', 'Flynn, Patrick, Thain, Douglas, Chen, Danny');
+INSERT into applicantData (ID, category, data) values (266663642, 'School 1 Institution', 'University of Ghana');
+INSERT into applicantData (ID, category, data) values (266663642, 'Missing Checklist Items (line break)', 'Application Fee
+Edna Ovulley, Shai-Osudoku District Hospital
+Frances Baaba da-Costa Vroom, University of Ghana, Legon
+Joseph Abandoh-Sam, Valley View University
+Post Submission (not required, is optional)');
+INSERT into applicantData (ID, category, data) values (266663642, 'Application Status', 'Awaiting Materials');
+INSERT into applicantData (ID, category, data) values (266663642, 'App - Faculty Advisor Name.1', 'Flynn, Patrick, Thain, Douglas, Chen, Danny');
+INSERT into applicant (ID, adminID, year, semester) values (487729066, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (487729066, 'Last', 'Adu Yirenkyi');
+INSERT into applicantData (ID, category, data) values (487729066, 'First', 'Isaac');
+INSERT into applicantData (ID, category, data) values (487729066, 'Email', 'amirala.barjasteh@gmail.com');
+INSERT into applicantData (ID, category, data) values (487729066, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (487729066, 'Ethnicity (New)', 'Not Hispanic or Latino');
+INSERT into applicantData (ID, category, data) values (487729066, 'Citizenship Country', 'Iran');
+INSERT into applicantData (ID, category, data) values (487729066, 'Area Of Study', 'Distributed Systems: Clusters, Clouds, and Grids');
+INSERT into applicantData (ID, category, data) values (487729066, 'App - Faculty Advisor Name', 'Thain, Douglas, McMillan, Collin, C. S. Santos, Joanna');
+INSERT into applicantData (ID, category, data) values (487729066, 'School 1 Institution', 'Ferdowsi University of Mashhad');
+INSERT into applicantData (ID, category, data) values (487729066, 'Missing Checklist Items (line break)', 'Application Fee Waiver Request Form
+Post Submission
+Post Submission (not required, is optional)');
+INSERT into applicantData (ID, category, data) values (487729066, 'Application Status', 'Decided');
+INSERT into applicantData (ID, category, data) values (487729066, 'App - Faculty Advisor Name.1', 'Thain, Douglas, McMillan, Collin, C. S. Santos, Joanna');
+INSERT into applicantData (ID, category, data) values (487729066, 'Department Recommendation', 'Approve');
+INSERT into applicant (ID, adminID, year, semester) values (826022984, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (826022984, 'Last', 'Akinnawo');
+INSERT into applicantData (ID, category, data) values (826022984, 'First', 'Oluwafemi');
+INSERT into applicantData (ID, category, data) values (826022984, 'Email', 'alimbaydoun@gmail.com');
+INSERT into applicantData (ID, category, data) values (826022984, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (826022984, 'Citizenship Country', 'United States');
+INSERT into applicantData (ID, category, data) values (826022984, 'Area Of Study', 'AI and Machine Learning');
+INSERT into applicantData (ID, category, data) values (826022984, 'App - Faculty Advisor Name', 'Spyridon Mastorakis');
+INSERT into applicantData (ID, category, data) values (826022984, 'Missing Checklist Items (line break)', 'CV/Resume
+Post Submission (not required, is optional)
+Statement of Intent');
+INSERT into applicantData (ID, category, data) values (826022984, 'Application Status', 'Awaiting Submission');
+INSERT into applicantData (ID, category, data) values (826022984, 'App - Faculty Advisor Name.1', 'Spyridon Mastorakis');
+INSERT into applicant (ID, adminID, year, semester) values (771003529, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (771003529, 'Last', 'Allarate');
+INSERT into applicantData (ID, category, data) values (771003529, 'First', 'Fidele');
+INSERT into applicantData (ID, category, data) values (771003529, 'Email', 'yaxseh27@gmail.com');
+INSERT into applicantData (ID, category, data) values (771003529, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (771003529, 'Citizenship Country', 'The Gambia');
+INSERT into applicantData (ID, category, data) values (771003529, 'Area Of Study', 'AI and Machine Learning');
+INSERT into applicantData (ID, category, data) values (771003529, 'App - Faculty Advisor Name', 'Chawla Nitesh, Zhang Xiangliang (Lynn), Ye Yanfang.(Fanny)');
+INSERT into applicantData (ID, category, data) values (771003529, 'School 1 Institution', 'University of the Gambia');
+INSERT into applicantData (ID, category, data) values (771003529, 'Missing Checklist Items (line break)', 'Abdou Darboe, University of Gambia
+Application Fee
+Ebrima Sarr, University of Gambia
+Momodou Alieu Jallow, University of Gambia
+Post Submission (not required, is optional)');
+INSERT into applicantData (ID, category, data) values (771003529, 'Application Status', 'Awaiting Materials');
+INSERT into applicantData (ID, category, data) values (771003529, 'App - Faculty Advisor Name.1', 'Chawla Nitesh, Zhang Xiangliang (Lynn), Ye Yanfang.(Fanny)');
+INSERT into applicant (ID, adminID, year, semester) values (649300236, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (649300236, 'Last', 'Amissah');
+INSERT into applicantData (ID, category, data) values (649300236, 'First', 'Daniel');
+INSERT into applicantData (ID, category, data) values (649300236, 'Email', 'darku.nii@yahoo.com');
+INSERT into applicantData (ID, category, data) values (649300236, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (649300236, 'Citizenship Country', 'Ghana');
+INSERT into applicantData (ID, category, data) values (649300236, 'Area Of Study', 'Software Engineering');
+INSERT into applicantData (ID, category, data) values (649300236, 'App - Faculty Advisor Name', 'Kodi, Isaac, Kodua, Richmond, Twum, Eric');
+INSERT into applicantData (ID, category, data) values (649300236, 'Missing Checklist Items (line break)', 'Application Fee
+CV/Resume
+Post Submission (not required, is optional)
+Statement of Intent');
+INSERT into applicantData (ID, category, data) values (649300236, 'Application Status', 'Awaiting Submission');
+INSERT into applicantData (ID, category, data) values (649300236, 'App - Faculty Advisor Name.1', 'Kodi, Isaac, Kodua, Richmond, Twum, Eric');
+INSERT into applicant (ID, adminID, year, semester) values (585388269, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (585388269, 'Last', 'Amoah');
+INSERT into applicantData (ID, category, data) values (585388269, 'First', 'Samuel');
+INSERT into applicantData (ID, category, data) values (585388269, 'Email', 'tomastekle20@gmail.com');
+INSERT into applicantData (ID, category, data) values (585388269, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (585388269, 'Citizenship Country', 'Eritrea');
+INSERT into applicantData (ID, category, data) values (585388269, 'Area Of Study', 'Data Mining and Machine Learning');
+INSERT into applicantData (ID, category, data) values (585388269, 'School 1 Institution', 'Zayed University');
+INSERT into applicantData (ID, category, data) values (585388269, 'Missing Checklist Items (line break)', 'Application Fee
+CV/Resume
+Post Submission (not required, is optional)
+Statement of Intent');
+INSERT into applicantData (ID, category, data) values (585388269, 'Application Status', 'Awaiting Submission');
+INSERT into applicant (ID, adminID, year, semester) values (854248505, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (854248505, 'Last', 'Apprey');
+INSERT into applicantData (ID, category, data) values (854248505, 'First', 'Jonathan');
+INSERT into applicantData (ID, category, data) values (854248505, 'Email', 'rkdon12@gmail.com');
+INSERT into applicantData (ID, category, data) values (854248505, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (854248505, 'Citizenship Country', 'Ghana');
+INSERT into applicantData (ID, category, data) values (854248505, 'Area Of Study', 'Software Engineering');
+INSERT into applicantData (ID, category, data) values (854248505, 'App - Faculty Advisor Name', 'Collin McMilla, Joanna Cecilia da Silva Santos, Shreya Kumar');
+INSERT into applicantData (ID, category, data) values (854248505, 'School 1 Institution', 'Methodist University Ghana');
+INSERT into applicantData (ID, category, data) values (854248505, 'Missing Checklist Items (line break)', 'Application Fee
+Kwesi Ohemeng-Agyei, Public Services Commission
+Post Submission (not required, is optional)
+Ruth A. M. Larbey, Methodist University Ghana
+Samuel Darkwah, Methodist University Ghana');
+INSERT into applicantData (ID, category, data) values (854248505, 'Application Status', 'Awaiting Materials');
+INSERT into applicantData (ID, category, data) values (854248505, 'App - Faculty Advisor Name.1', 'Collin McMilla, Joanna Cecilia da Silva Santos, Shreya Kumar');
+INSERT into applicant (ID, adminID, year, semester) values (202408552, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (202408552, 'Last', 'Asio');
+INSERT into applicantData (ID, category, data) values (202408552, 'First', 'Richmond');
+INSERT into applicantData (ID, category, data) values (202408552, 'Email', 'ywd8086@gmail.com');
+INSERT into applicantData (ID, category, data) values (202408552, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (202408552, 'Citizenship Country', 'China');
+INSERT into applicantData (ID, category, data) values (202408552, 'Area Of Study', 'AI and Machine Learning');
+INSERT into applicantData (ID, category, data) values (202408552, 'App - Faculty Advisor Name', 'Xiangliang (Lynn) Zhang');
+INSERT into applicantData (ID, category, data) values (202408552, 'School 1 Institution', 'University of Electronic Science and Technology of China');
+INSERT into applicantData (ID, category, data) values (202408552, 'Missing Checklist Items (line break)', 'Application Fee
+Jia Liu, Ant Group
+Post Submission (not required, is optional)
+TOEFL or IELTS or Duolingo
+Xiaoyu Li, University of Electronic Science and Technology of China');
+INSERT into applicantData (ID, category, data) values (202408552, 'Application Status', 'Awaiting Submission');
+INSERT into applicantData (ID, category, data) values (202408552, 'App - Faculty Advisor Name.1', 'Xiangliang (Lynn) Zhang');
+INSERT into applicant (ID, adminID, year, semester) values (870130727, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (870130727, 'Last', 'Barjasteh');
+INSERT into applicantData (ID, category, data) values (870130727, 'First', 'Amirala');
+INSERT into applicantData (ID, category, data) values (870130727, 'Email', 'durojaye2941@gmail.com');
+INSERT into applicantData (ID, category, data) values (870130727, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (870130727, 'Citizenship Country', 'Nigeria');
+INSERT into applicantData (ID, category, data) values (870130727, 'Area Of Study', 'Data Mining and Machine Learning');
+INSERT into applicantData (ID, category, data) values (870130727, 'App - Faculty Advisor Name', 'Tim Weninger, Meng Jiang, Xiangliang (Lynn) Zhang');
+INSERT into applicantData (ID, category, data) values (870130727, 'Missing Checklist Items (line break)', 'Application Fee
+CV/Resume
+Post Submission (not required, is optional)
+Statement of Intent');
+INSERT into applicantData (ID, category, data) values (870130727, 'Application Status', 'Awaiting Submission');
+INSERT into applicantData (ID, category, data) values (870130727, 'App - Faculty Advisor Name.1', 'Tim Weninger, Meng Jiang, Xiangliang (Lynn) Zhang');
+INSERT into applicant (ID, adminID, year, semester) values (806932457, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (806932457, 'Last', 'Baydoun');
+INSERT into applicantData (ID, category, data) values (806932457, 'First', 'Ali-Al-Akbar');
+INSERT into applicantData (ID, category, data) values (806932457, 'Email', 'durojayedadaishola@gmail.com');
+INSERT into applicantData (ID, category, data) values (806932457, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (806932457, 'Citizenship Country', 'Nigeria');
+INSERT into applicantData (ID, category, data) values (806932457, 'Area Of Study', 'Data Mining and Machine Learning');
+INSERT into applicantData (ID, category, data) values (806932457, 'App - Faculty Advisor Name', 'Tim Weninger, Meng Jiang, Xiangliang (Lynn) Zhang');
+INSERT into applicantData (ID, category, data) values (806932457, 'School 1 Institution', 'Federal University, Dutsin-ma');
+INSERT into applicantData (ID, category, data) values (806932457, 'Missing Checklist Items (line break)', 'Ahmed Olanrewaju, University of Ibadan
+Application Fee
+Muntasir Yakubu, Federal university Dutsin-ma
+Obunadike Georgina, Federal university Dutsin-ma
+Post Submission (not required, is optional)');
+INSERT into applicantData (ID, category, data) values (806932457, 'Application Status', 'Awaiting Submission');
+INSERT into applicantData (ID, category, data) values (806932457, 'App - Faculty Advisor Name.1', 'Tim Weninger, Meng Jiang, Xiangliang (Lynn) Zhang');
+INSERT into applicant (ID, adminID, year, semester) values (762153334, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (762153334, 'Last', 'Bojang');
+INSERT into applicantData (ID, category, data) values (762153334, 'First', 'Yahya');
+INSERT into applicantData (ID, category, data) values (762153334, 'Email', 'ofabamis@nd.edu');
+INSERT into applicantData (ID, category, data) values (762153334, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (762153334, 'Ethnicity (New)', 'Not Hispanic or Latino');
+INSERT into applicantData (ID, category, data) values (762153334, 'Citizenship Country', 'Nigeria');
+INSERT into applicantData (ID, category, data) values (762153334, 'Area Of Study', 'Big Data Analytics');
+INSERT into applicantData (ID, category, data) values (762153334, 'School 1 Institution', 'Osun State College of Tech');
+INSERT into applicantData (ID, category, data) values (762153334, 'Missing Checklist Items (line break)', 'Application Fee
+CV/Resume
+Post Submission (not required, is optional)
+Statement of Intent');
+INSERT into applicantData (ID, category, data) values (762153334, 'Application Status', 'Awaiting Submission');
+INSERT into applicant (ID, adminID, year, semester) values (743866261, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (743866261, 'Last', 'Darku');
+INSERT into applicantData (ID, category, data) values (743866261, 'First', 'Nii Darku');
+INSERT into applicantData (ID, category, data) values (743866261, 'Email', 'abayomifagbamila@gmail.com');
+INSERT into applicantData (ID, category, data) values (743866261, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (743866261, 'Citizenship Country', 'Nigeria');
+INSERT into applicantData (ID, category, data) values (743866261, 'Area Of Study', 'AI and Machine Learning');
+INSERT into applicantData (ID, category, data) values (743866261, 'School 1 Institution', 'National Open University of Nigeria');
+INSERT into applicantData (ID, category, data) values (743866261, 'Missing Checklist Items (line break)', 'Application Fee
+CV/Resume
+Post Submission (not required, is optional)
+Statement of Intent');
+INSERT into applicantData (ID, category, data) values (743866261, 'Application Status', 'Awaiting Submission');
+INSERT into applicant (ID, adminID, year, semester) values (994348094, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (994348094, 'Last', 'Debrezion');
+INSERT into applicantData (ID, category, data) values (994348094, 'First', 'Tomas');
+INSERT into applicantData (ID, category, data) values (994348094, 'Email', 'alex.equar@gmail.com');
+INSERT into applicantData (ID, category, data) values (994348094, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (994348094, 'Citizenship Country', 'Ethiopia');
+INSERT into applicantData (ID, category, data) values (994348094, 'Area Of Study', 'Distributed Systems: Clusters, Clouds, and Grids');
+INSERT into applicantData (ID, category, data) values (994348094, 'App - Faculty Advisor Name', 'Weninger Tim, Chawla Nitesh, Chiang David');
+INSERT into applicantData (ID, category, data) values (994348094, 'School 1 Institution', 'Addis Ababa University');
+INSERT into applicantData (ID, category, data) values (994348094, 'Missing Checklist Items (line break)', 'Addis Ababa University
+Application Fee
+CV/Resume
+Dereje Teferi, Addis Ababa University
+New Abyssinia College
+Post Submission (not required, is optional)
+Statement of Intent
+Tibebe Beshah, Addis Ababa University');
+INSERT into applicantData (ID, category, data) values (994348094, 'Application Status', 'Awaiting Submission');
+INSERT into applicantData (ID, category, data) values (994348094, 'App - Faculty Advisor Name.1', 'Weninger Tim, Chawla Nitesh, Chiang David');
+INSERT into applicant (ID, adminID, year, semester) values (834957230, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (834957230, 'Last', 'Donkor');
+INSERT into applicantData (ID, category, data) values (834957230, 'First', 'Richard');
+INSERT into applicantData (ID, category, data) values (834957230, 'Email', 'georgefwa18@gmail.com');
+INSERT into applicantData (ID, category, data) values (834957230, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (834957230, 'Citizenship Country', 'Nigeria');
+INSERT into applicantData (ID, category, data) values (834957230, 'Area Of Study', 'AI and Machine Learning');
+INSERT into applicantData (ID, category, data) values (834957230, 'App - Faculty Advisor Name', 'Nitesh Chawla, Adam Czajka, Xiangliang Zhang');
+INSERT into applicantData (ID, category, data) values (834957230, 'School 1 Institution', 'Air Force Inst of Technology');
+INSERT into applicantData (ID, category, data) values (834957230, 'Missing Checklist Items (line break)', 'Application Fee
+Application Fee Waiver Request Form
+Post Submission (not required, is optional)');
+INSERT into applicantData (ID, category, data) values (834957230, 'Application Status', 'Awaiting Submission');
+INSERT into applicantData (ID, category, data) values (834957230, 'App - Faculty Advisor Name.1', 'Nitesh Chawla, Adam Czajka, Xiangliang Zhang');
+INSERT into applicant (ID, adminID, year, semester) values (872658092, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (872658092, 'Last', 'Duan');
+INSERT into applicantData (ID, category, data) values (872658092, 'First', 'Yiwen');
+INSERT into applicantData (ID, category, data) values (872658092, 'Email', 'a1196987028@gmail.com');
+INSERT into applicantData (ID, category, data) values (872658092, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (872658092, 'Citizenship Country', 'China');
+INSERT into applicantData (ID, category, data) values (872658092, 'Area Of Study', 'AI and Machine Learning');
+INSERT into applicantData (ID, category, data) values (872658092, 'App - Faculty Advisor Name', 'Zhang, Xiangliang (Lynn)');
+INSERT into applicantData (ID, category, data) values (872658092, 'School 1 Institution', 'Rice University');
+INSERT into applicantData (ID, category, data) values (872658092, 'Missing Checklist Items (line break)', 'Application Fee
+CV/Resume
+Post Submission (not required, is optional)
+Statement of Intent
+TOEFL or IELTS or Duolingo');
+INSERT into applicantData (ID, category, data) values (872658092, 'Application Status', 'Awaiting Submission');
+INSERT into applicantData (ID, category, data) values (872658092, 'App - Faculty Advisor Name.1', 'Zhang, Xiangliang (Lynn)');
+INSERT into applicant (ID, adminID, year, semester) values (866147876, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (866147876, 'Last', 'Durojaye');
+INSERT into applicantData (ID, category, data) values (866147876, 'First', 'Dada');
+INSERT into applicantData (ID, category, data) values (866147876, 'Email', 'jiaxing.he@tufts.edu');
+INSERT into applicantData (ID, category, data) values (866147876, 'Area Of Study', 'AI and Machine Learning');
+INSERT into applicantData (ID, category, data) values (866147876, 'Missing Checklist Items (line break)', 'Application Fee
+CV/Resume
+Diane Souvaine, tufts university
+Liping Liu, tufts university
+Post Submission (not required, is optional)
+Statement of Intent
+TOEFL or IELTS or Duolingo');
+INSERT into applicantData (ID, category, data) values (866147876, 'Application Status', 'Awaiting Submission');
+INSERT into applicant (ID, adminID, year, semester) values (701300987, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (701300987, 'Last', 'Durojaye');
+INSERT into applicantData (ID, category, data) values (701300987, 'First', 'Dada');
+INSERT into applicantData (ID, category, data) values (701300987, 'Email', 'jingliqiang6@gmail.com');
+INSERT into applicantData (ID, category, data) values (701300987, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (701300987, 'Citizenship Country', 'China');
+INSERT into applicantData (ID, category, data) values (701300987, 'Area Of Study', 'Natural Language Processing');
+INSERT into applicantData (ID, category, data) values (701300987, 'App - Faculty Advisor Name', 'Zhang, Xiangliang');
+INSERT into applicantData (ID, category, data) values (701300987, 'School 1 Institution', 'Hefei University of Technology');
+INSERT into applicantData (ID, category, data) values (701300987, 'Missing Checklist Items (line break)', 'Post Submission (not required, is optional)');
+INSERT into applicantData (ID, category, data) values (701300987, 'Application Status', 'Awaiting Decision');
+INSERT into applicantData (ID, category, data) values (701300987, 'App - Faculty Advisor Name.1', 'Zhang, Xiangliang');
+INSERT into applicant (ID, adminID, year, semester) values (516241956, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (516241956, 'Last', 'Fabamise');
+INSERT into applicantData (ID, category, data) values (516241956, 'First', 'Olatunji');
+INSERT into applicantData (ID, category, data) values (516241956, 'Email', 'hbkazemi96@gmail.com');
+INSERT into applicantData (ID, category, data) values (516241956, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (516241956, 'Ethnicity (New)', 'Not Hispanic or Latino');
+INSERT into applicantData (ID, category, data) values (516241956, 'Citizenship Country', 'Iran');
+INSERT into applicantData (ID, category, data) values (516241956, 'Area Of Study', 'Computer Architecture and Nanotechnology');
+INSERT into applicantData (ID, category, data) values (516241956, 'App - Faculty Advisor Name', 'Hu, Xiaobo Sharon, Niemier, Michael, Joshi, Siddharth');
+INSERT into applicantData (ID, category, data) values (516241956, 'School 1 Institution', 'University of Shiraz');
+INSERT into applicantData (ID, category, data) values (516241956, 'Missing Checklist Items (line break)', 'Application Fee Waiver Request Form
+Post Submission
+Post Submission (not required, is optional)');
+INSERT into applicantData (ID, category, data) values (516241956, 'Application Status', 'Decided');
+INSERT into applicantData (ID, category, data) values (516241956, 'App - Faculty Advisor Name.1', 'Hu, Xiaobo Sharon, Niemier, Michael, Joshi, Siddharth');
+INSERT into applicantData (ID, category, data) values (516241956, 'Department Recommendation', 'Approve');
+INSERT into applicant (ID, adminID, year, semester) values (279295513, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (279295513, 'Last', 'Fagbamila');
+INSERT into applicantData (ID, category, data) values (279295513, 'First', 'Abayomi');
+INSERT into applicantData (ID, category, data) values (279295513, 'Email', 'abisolalawal7@gmail.com');
+INSERT into applicantData (ID, category, data) values (279295513, 'Sex', 'F');
+INSERT into applicantData (ID, category, data) values (279295513, 'Citizenship Country', 'Nigeria');
+INSERT into applicantData (ID, category, data) values (279295513, 'Area Of Study', 'Big Data Analytics');
+INSERT into applicantData (ID, category, data) values (279295513, 'App - Faculty Advisor Name', 'Julie Gray, Ben Tovar, Jayeeta Dhar');
+INSERT into applicantData (ID, category, data) values (279295513, 'School 1 Institution', 'TAI SOLARIN UNIVERSITY OF EDUCATION');
+INSERT into applicantData (ID, category, data) values (279295513, 'Missing Checklist Items (line break)', 'Application Fee
+Post Submission (not required, is optional)');
+INSERT into applicantData (ID, category, data) values (279295513, 'Application Status', 'Awaiting Materials');
+INSERT into applicantData (ID, category, data) values (279295513, 'App - Faculty Advisor Name.1', 'Julie Gray, Ben Tovar, Jayeeta Dhar');
+INSERT into applicant (ID, adminID, year, semester) values (279295514, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (279295514, 'Last', 'Gebremariam');
+INSERT into applicantData (ID, category, data) values (279295514, 'First', 'Alemayehu Equar');
+INSERT into applicantData (ID, category, data) values (279295514, 'Email', 'abisolalawal7@gmail.com');
+INSERT into applicantData (ID, category, data) values (279295514, 'Sex', 'F');
+INSERT into applicantData (ID, category, data) values (279295514, 'Citizenship Country', 'Nigeria');
+INSERT into applicantData (ID, category, data) values (279295514, 'Area Of Study', 'Big Data Analytics');
+INSERT into applicantData (ID, category, data) values (279295514, 'App - Faculty Advisor Name', 'Julie Gray, Jayeeta Dhar, Ben Tovar');
+INSERT into applicantData (ID, category, data) values (279295514, 'School 1 Institution', 'TAI SOLARIN UNIVERSITY OF EDUCATION');
+INSERT into applicantData (ID, category, data) values (279295514, 'Missing Checklist Items (line break)', 'Application Fee
+Application Fee Waiver Request Form
+Damilola Adelaja, Odua Telecoms Limited
+Post Submission (not required, is optional)');
+INSERT into applicantData (ID, category, data) values (279295514, 'Application Status', 'Awaiting Submission');
+INSERT into applicantData (ID, category, data) values (279295514, 'App - Faculty Advisor Name.1', 'Julie Gray, Jayeeta Dhar, Ben Tovar');
+INSERT into applicant (ID, adminID, year, semester) values (351756, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (351756, 'Last', 'George');
+INSERT into applicantData (ID, category, data) values (351756, 'First', 'Yanwalo');
+INSERT into applicantData (ID, category, data) values (351756, 'Email', 'khiem.lh@vinuni.edu.vn');
+INSERT into applicantData (ID, category, data) values (351756, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (351756, 'Citizenship Country', 'Vietnam');
+INSERT into applicantData (ID, category, data) values (351756, 'Area Of Study', 'AI and Machine Learning');
+INSERT into applicantData (ID, category, data) values (351756, 'App - Faculty Advisor Name', 'Nitesh Chawla');
+INSERT into applicantData (ID, category, data) values (351756, 'School 1 Institution', 'VNUHCM - University of Science');
+INSERT into applicantData (ID, category, data) values (351756, 'Missing Checklist Items (line break)', 'Application Fee
+Post Submission (not required, is optional)
+Statement of Intent');
+INSERT into applicantData (ID, category, data) values (351756, 'Application Status', 'Awaiting Submission');
+INSERT into applicantData (ID, category, data) values (351756, 'App - Faculty Advisor Name.1', 'Nitesh Chawla');
+INSERT into applicant (ID, adminID, year, semester) values (351757, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (351757, 'Last', 'Guo');
+INSERT into applicantData (ID, category, data) values (351757, 'First', 'Zhenghui');
+INSERT into applicantData (ID, category, data) values (351757, 'Email', 'khiem.lh@vinuni.edu.vn');
+INSERT into applicantData (ID, category, data) values (351757, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (351757, 'Citizenship Country', 'Vietnam');
+INSERT into applicantData (ID, category, data) values (351757, 'Area Of Study', 'AI and Machine Learning');
+INSERT into applicantData (ID, category, data) values (351757, 'App - Faculty Advisor Name', 'Nitesh V. Chawla');
+INSERT into applicantData (ID, category, data) values (351757, 'School 1 Institution', 'VNUHCM - University of Science');
+INSERT into applicantData (ID, category, data) values (351757, 'Missing Checklist Items (line break)', 'Application Fee
+Binh Nguyen, Mathematics and Computer Science, VNU-HCM University of Science
+Nitesh Chawla, Computer Science and Engineering, University of Notre Dame
+Post Submission (not required, is optional)');
+INSERT into applicantData (ID, category, data) values (351757, 'Application Status', 'Awaiting Submission');
+INSERT into applicantData (ID, category, data) values (351757, 'App - Faculty Advisor Name.1', 'Nitesh V. Chawla');
+INSERT into applicant (ID, adminID, year, semester) values (34708050, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (34708050, 'Last', 'He');
+INSERT into applicantData (ID, category, data) values (34708050, 'First', 'Jiaxing');
+INSERT into applicantData (ID, category, data) values (34708050, 'Email', 'aaronmusa@gmail.com');
+INSERT into applicantData (ID, category, data) values (34708050, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (34708050, 'Citizenship Country', 'Nigeria');
+INSERT into applicantData (ID, category, data) values (34708050, 'Area Of Study', 'Security, Privacy, and Cryptography');
+INSERT into applicantData (ID, category, data) values (34708050, 'App - Faculty Advisor Name', 'Frank M. Freimann, Shreya Kumar, Prof. Aaron Striegel');
+INSERT into applicantData (ID, category, data) values (34708050, 'Missing Checklist Items (line break)', 'Application Fee
+Application Fee Waiver Request Form
+CV/Resume
+Post Submission (not required, is optional)
+Statement of Intent');
+INSERT into applicantData (ID, category, data) values (34708050, 'Application Status', 'Awaiting Submission');
+INSERT into applicantData (ID, category, data) values (34708050, 'App - Faculty Advisor Name.1', 'Frank M. Freimann, Shreya Kumar, Prof. Aaron Striegel');
+INSERT into applicant (ID, adminID, year, semester) values (631042226, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (631042226, 'Last', 'Jing');
+INSERT into applicantData (ID, category, data) values (631042226, 'First', 'Liqiang');
+INSERT into applicantData (ID, category, data) values (631042226, 'Email', 'isratnaiyer@gmail.com');
+INSERT into applicantData (ID, category, data) values (631042226, 'Sex', 'F');
+INSERT into applicantData (ID, category, data) values (631042226, 'Citizenship Country', 'Bangladesh');
+INSERT into applicantData (ID, category, data) values (631042226, 'Area Of Study', 'Software Engineering');
+INSERT into applicantData (ID, category, data) values (631042226, 'App - Faculty Advisor Name', 'Karla Badillo-Urquiola, Spyridon Mastorakis, Ronald Metoyer');
+INSERT into applicantData (ID, category, data) values (631042226, 'School 1 Institution', 'BRAC University');
+INSERT into applicantData (ID, category, data) values (631042226, 'Missing Checklist Items (line break)', 'Application Fee
+Application Fee Waiver Request Form
+CV/Resume
+Jia Uddin, Woosong University
+Post Submission (not required, is optional)
+Statement of Intent');
+INSERT into applicantData (ID, category, data) values (631042226, 'Application Status', 'Awaiting Submission');
+INSERT into applicantData (ID, category, data) values (631042226, 'App - Faculty Advisor Name.1', 'Karla Badillo-Urquiola, Spyridon Mastorakis, Ronald Metoyer');
+INSERT into applicant (ID, adminID, year, semester) values (886874929, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (886874929, 'Last', 'Kazemi');
+INSERT into applicantData (ID, category, data) values (886874929, 'First', 'Habib');
+INSERT into applicantData (ID, category, data) values (886874929, 'Email', 'spniroul@gmail.com');
+INSERT into applicantData (ID, category, data) values (886874929, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (886874929, 'Citizenship Country', 'Nepal');
+INSERT into applicantData (ID, category, data) values (886874929, 'Area Of Study', 'AI and Machine Learning');
+INSERT into applicantData (ID, category, data) values (886874929, 'School 1 Institution', 'University of Mississippi');
+INSERT into applicantData (ID, category, data) values (886874929, 'Missing Checklist Items (line break)', 'Application Fee
+CV/Resume
+Jon Moen, University of Mississippi
+Post Submission (not required, is optional)
+Ronald Mau, Federal Reserve Bank of Dallas
+Statement of Intent
+TOEFL or IELTS or Duolingo');
+INSERT into applicantData (ID, category, data) values (886874929, 'Application Status', 'Awaiting Submission');
+INSERT into applicant (ID, adminID, year, semester) values (445943235, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (445943235, 'Last', 'Lawal');
+INSERT into applicantData (ID, category, data) values (445943235, 'First', 'Bisola');
+INSERT into applicantData (ID, category, data) values (445943235, 'Email', 'anthonia.njoku@aims-cameroon.org');
+INSERT into applicantData (ID, category, data) values (445943235, 'Sex', 'F');
+INSERT into applicantData (ID, category, data) values (445943235, 'Citizenship Country', 'Nigeria');
+INSERT into applicantData (ID, category, data) values (445943235, 'Area Of Study', 'Network and Data Science');
+INSERT into applicantData (ID, category, data) values (445943235, 'App - Faculty Advisor Name', 'Prof. Chawla Nitesh, Prof. Milenkovic Tijana, Prof. Weninger Tim');
+INSERT into applicantData (ID, category, data) values (445943235, 'School 1 Institution', 'African Inst for Math Sciences');
+INSERT into applicantData (ID, category, data) values (445943235, 'Missing Checklist Items (line break)', 'Application Fee
+Collins Akosa, Waseda University
+CV/Resume
+Post Submission (not required, is optional)
+Statement of Intent');
+INSERT into applicantData (ID, category, data) values (445943235, 'Application Status', 'Awaiting Submission');
+INSERT into applicantData (ID, category, data) values (445943235, 'App - Faculty Advisor Name.1', 'Prof. Chawla Nitesh, Prof. Milenkovic Tijana, Prof. Weninger Tim');
+INSERT into applicant (ID, adminID, year, semester) values (522707188, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (522707188, 'Last', 'Lawal');
+INSERT into applicantData (ID, category, data) values (522707188, 'First', 'Bisola');
+INSERT into applicantData (ID, category, data) values (522707188, 'Email', 'brendakcnogueira@gmail.com');
+INSERT into applicantData (ID, category, data) values (522707188, 'Sex', 'F');
+INSERT into applicantData (ID, category, data) values (522707188, 'Citizenship Country', 'Brazil');
+INSERT into applicantData (ID, category, data) values (522707188, 'Area Of Study', 'AI and Machine Learning');
+INSERT into applicantData (ID, category, data) values (522707188, 'App - Faculty Advisor Name', 'Chawla, Nitesh, Moniz, Nuno');
+INSERT into applicantData (ID, category, data) values (522707188, 'School 1 Institution', 'University of Oporto');
+INSERT into applicantData (ID, category, data) values (522707188, 'Missing Checklist Items (line break)', 'Application Fee
+Post Submission (not required, is optional)
+TOEFL or IELTS or Duolingo');
+INSERT into applicantData (ID, category, data) values (522707188, 'Application Status', 'Awaiting Submission');
+INSERT into applicantData (ID, category, data) values (522707188, 'App - Faculty Advisor Name.1', 'Chawla, Nitesh, Moniz, Nuno');
+INSERT into applicant (ID, adminID, year, semester) values (39868623, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (39868623, 'Last', 'Le');
+INSERT into applicantData (ID, category, data) values (39868623, 'First', 'Khiem');
+INSERT into applicantData (ID, category, data) values (39868623, 'Email', 'snosiru@noun.edu.ng');
+INSERT into applicantData (ID, category, data) values (39868623, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (39868623, 'Citizenship Country', 'Nigeria');
+INSERT into applicantData (ID, category, data) values (39868623, 'Area Of Study', 'Data Mining and Machine Learning');
+INSERT into applicantData (ID, category, data) values (39868623, 'App - Faculty Advisor Name', 'Kevin Bowyer, Adam Czajko, Walter Scheirer');
+INSERT into applicantData (ID, category, data) values (39868623, 'School 1 Institution', 'University of Ibadan in Affiliation to Tai Solarin College of Education');
+INSERT into applicantData (ID, category, data) values (39868623, 'Missing Checklist Items (line break)', 'Application Fee
+Associate Professor Ernest Ogwashi Ugbejeh, National Open University of Nigeria, Faculty of Law, NOUN
+Associate Professor Mercillinus Anaekwe, National Open University of Nigeria NOUN, Abuja, Nigeria
+Post Submission (not required, is optional)
+Sikiru Yommy Aiyeola, National Space Research Development Agency NASRDA, CSTD Abuja');
+INSERT into applicantData (ID, category, data) values (39868623, 'Application Status', 'Awaiting Submission');
+INSERT into applicantData (ID, category, data) values (39868623, 'App - Faculty Advisor Name.1', 'Kevin Bowyer, Adam Czajko, Walter Scheirer');
+INSERT into applicant (ID, adminID, year, semester) values (69656660, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (69656660, 'Last', 'Le');
+INSERT into applicantData (ID, category, data) values (69656660, 'First', 'Khiem');
+INSERT into applicantData (ID, category, data) values (69656660, 'Email', 'hareeswaraaswinikumar@gmail.com');
+INSERT into applicantData (ID, category, data) values (69656660, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (69656660, 'Citizenship Country', 'India');
+INSERT into applicantData (ID, category, data) values (69656660, 'Area Of Study', 'AI and Machine Learning');
+INSERT into applicantData (ID, category, data) values (69656660, 'App - Faculty Advisor Name', 'KEVIN BOWYER, NITESH CHAWLA, WALTER SCHEIRER');
+INSERT into applicantData (ID, category, data) values (69656660, 'School 1 Institution', 'RISE KRISHNA SAI GANDHI GROUP OF INSTITUTIONS');
+INSERT into applicantData (ID, category, data) values (69656660, 'Missing Checklist Items (line break)', 'Application Fee
+N Koteswara Rao, RISE KRISHNA SAI GANDHI GROUP OF INSTITUTIONS
+Post Submission (not required, is optional)
+TOEFL or IELTS or Duolingo');
+INSERT into applicantData (ID, category, data) values (69656660, 'Application Status', 'Awaiting Submission');
+INSERT into applicantData (ID, category, data) values (69656660, 'App - Faculty Advisor Name.1', 'KEVIN BOWYER, NITESH CHAWLA, WALTER SCHEIRER');
+INSERT into applicant (ID, adminID, year, semester) values (67175153, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (67175153, 'Last', 'Musa');
+INSERT into applicantData (ID, category, data) values (67175153, 'First', 'Aaron Dogo');
+INSERT into applicantData (ID, category, data) values (67175153, 'Email', 'nwazueamarachi@gmail.com');
+INSERT into applicantData (ID, category, data) values (67175153, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (67175153, 'Citizenship Country', 'Nigeria');
+INSERT into applicantData (ID, category, data) values (67175153, 'Area Of Study', 'Wireless, Mobile, and Embedded Systems');
+INSERT into applicantData (ID, category, data) values (67175153, 'School 1 Institution', 'University of Portharcourt');
+INSERT into applicantData (ID, category, data) values (67175153, 'Missing Checklist Items (line break)', 'Application Fee
+CV/Resume
+Post Submission (not required, is optional)
+Statement of Intent');
+INSERT into applicantData (ID, category, data) values (67175153, 'Application Status', 'Awaiting Submission');
+INSERT into applicant (ID, adminID, year, semester) values (304201597, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (304201597, 'Last', 'Naiyer');
+INSERT into applicantData (ID, category, data) values (304201597, 'First', 'Israt');
+INSERT into applicantData (ID, category, data) values (304201597, 'Email', 'chijiokefrederick92@gmail.com');
+INSERT into applicantData (ID, category, data) values (304201597, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (304201597, 'Citizenship Country', 'Nigeria');
+INSERT into applicantData (ID, category, data) values (304201597, 'Area Of Study', 'Big Data Analytics');
+INSERT into applicantData (ID, category, data) values (304201597, 'App - Faculty Advisor Name', 'Nitesh Chawla, Xiangliang (Lynn) Zhang, Yanfang (Fanny) Ye');
+INSERT into applicantData (ID, category, data) values (304201597, 'School 1 Institution', 'University of Lagos');
+INSERT into applicantData (ID, category, data) values (304201597, 'Missing Checklist Items (line break)', 'Application Fee
+CV/Resume
+Post Submission (not required, is optional)
+Statement of Intent');
+INSERT into applicantData (ID, category, data) values (304201597, 'Application Status', 'Awaiting Submission');
+INSERT into applicantData (ID, category, data) values (304201597, 'App - Faculty Advisor Name.1', 'Nitesh Chawla, Xiangliang (Lynn) Zhang, Yanfang (Fanny) Ye');
+INSERT into applicant (ID, adminID, year, semester) values (277169299, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (277169299, 'Last', 'Niroula');
+INSERT into applicantData (ID, category, data) values (277169299, 'First', 'Soujanya');
+INSERT into applicantData (ID, category, data) values (277169299, 'Email', 'okolojoy2704@gmail.com');
+INSERT into applicantData (ID, category, data) values (277169299, 'Area Of Study', 'Data Mining and Machine Learning');
+INSERT into applicantData (ID, category, data) values (277169299, 'App - Faculty Advisor Name', 'Yanfang (Fanny) Ye, Tim Weninger, Kevin Bowyer');
+INSERT into applicantData (ID, category, data) values (277169299, 'Missing Checklist Items (line break)', 'Anjum Razzaque, Western Illinois University
+Application Fee
+CV/Resume
+Gregory Baramidze, Western Illinois University
+Post Submission (not required, is optional)
+Statement of Intent
+TOEFL or IELTS or Duolingo');
+INSERT into applicantData (ID, category, data) values (277169299, 'Application Status', 'Awaiting Submission');
+INSERT into applicantData (ID, category, data) values (277169299, 'App - Faculty Advisor Name.1', 'Yanfang (Fanny) Ye, Tim Weninger, Kevin Bowyer');
+INSERT into applicant (ID, adminID, year, semester) values (231236260, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (231236260, 'Last', 'Njoku');
+INSERT into applicantData (ID, category, data) values (231236260, 'First', 'Anthonia');
+INSERT into applicantData (ID, category, data) values (231236260, 'Email', 'damidipo.dev@gmail.com');
+INSERT into applicantData (ID, category, data) values (231236260, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (231236260, 'Citizenship Country', 'Nigeria');
+INSERT into applicantData (ID, category, data) values (231236260, 'Area Of Study', 'Software Engineering');
+INSERT into applicantData (ID, category, data) values (231236260, 'App - Faculty Advisor Name', 'Jane Cleland-Huang, Ronald Metoyer, Chaoli Wang');
+INSERT into applicantData (ID, category, data) values (231236260, 'School 1 Institution', 'Obafemi Awolowo University');
+INSERT into applicantData (ID, category, data) values (231236260, 'Missing Checklist Items (line break)', 'Application Fee
+Post Submission (not required, is optional)
+Statement of Intent');
+INSERT into applicantData (ID, category, data) values (231236260, 'Application Status', 'Awaiting Submission');
+INSERT into applicantData (ID, category, data) values (231236260, 'App - Faculty Advisor Name.1', 'Jane Cleland-Huang, Ronald Metoyer, Chaoli Wang');
+INSERT into applicant (ID, adminID, year, semester) values (21344192, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (21344192, 'Last', 'Nogueira');
+INSERT into applicantData (ID, category, data) values (21344192, 'First', 'Brenda');
+INSERT into applicantData (ID, category, data) values (21344192, 'Email', 'profopsam911@gmail.com');
+INSERT into applicantData (ID, category, data) values (21344192, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (21344192, 'Citizenship Country', 'Nigeria');
+INSERT into applicantData (ID, category, data) values (21344192, 'Area Of Study', 'Software Engineering');
+INSERT into applicantData (ID, category, data) values (21344192, 'App - Faculty Advisor Name', 'Joanna Cecilia da Silva Santos, Shreyar Kymar, Collin McMillan');
+INSERT into applicantData (ID, category, data) values (21344192, 'School 1 Institution', 'National Open University of Nigeria');
+INSERT into applicantData (ID, category, data) values (21344192, 'Missing Checklist Items (line break)', 'Application Fee
+Post Submission (not required, is optional)');
+INSERT into applicantData (ID, category, data) values (21344192, 'Application Status', 'Awaiting Materials');
+INSERT into applicantData (ID, category, data) values (21344192, 'App - Faculty Advisor Name.1', 'Joanna Cecilia da Silva Santos, Shreyar Kymar, Collin McMillan');
+INSERT into applicant (ID, adminID, year, semester) values (761382299, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (761382299, 'Last', 'Nosiru');
+INSERT into applicantData (ID, category, data) values (761382299, 'First', 'Sulaimon');
+INSERT into applicantData (ID, category, data) values (761382299, 'Email', 'samsonomotayo43@gmail.com');
+INSERT into applicantData (ID, category, data) values (761382299, 'Citizenship Country', 'Nigeria');
+INSERT into applicantData (ID, category, data) values (761382299, 'Area Of Study', 'AI and Machine Learning');
+INSERT into applicantData (ID, category, data) values (761382299, 'App - Faculty Advisor Name', 'Patrick Flynn, David Chiang, Walter Scheirer');
+INSERT into applicantData (ID, category, data) values (761382299, 'School 1 Institution', 'Madonna University');
+INSERT into applicantData (ID, category, data) values (761382299, 'Missing Checklist Items (line break)', 'Application Fee
+Chinonso Ibegulam, Madonna University
+Christopher Ramos, Madonna University
+Post Submission (not required, is optional)
+Valentine Udegbe, Madonna University');
+INSERT into applicantData (ID, category, data) values (761382299, 'Application Status', 'Awaiting Submission');
+INSERT into applicantData (ID, category, data) values (761382299, 'App - Faculty Advisor Name.1', 'Patrick Flynn, David Chiang, Walter Scheirer');
+INSERT into applicant (ID, adminID, year, semester) values (3447929, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (3447929, 'Last', 'Nune');
+INSERT into applicantData (ID, category, data) values (3447929, 'First', 'Hareeswara Aswini Kumar');
+INSERT into applicantData (ID, category, data) values (3447929, 'Email', 'onayemi.hakeem@gmail.com');
+INSERT into applicantData (ID, category, data) values (3447929, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (3447929, 'Citizenship Country', 'Nigeria');
+INSERT into applicantData (ID, category, data) values (3447929, 'Area Of Study', 'Data Mining and Machine Learning');
+INSERT into applicantData (ID, category, data) values (3447929, 'App - Faculty Advisor Name', 'Tim Weninger, Meng Jiang, Spyridon Mastorakis');
+INSERT into applicantData (ID, category, data) values (3447929, 'School 1 Institution', 'National Open Univ of Nigeria');
+INSERT into applicantData (ID, category, data) values (3447929, 'Missing Checklist Items (line break)', 'Application Fee
+Post Submission (not required, is optional)');
+INSERT into applicantData (ID, category, data) values (3447929, 'Application Status', 'Awaiting Materials');
+INSERT into applicantData (ID, category, data) values (3447929, 'App - Faculty Advisor Name.1', 'Tim Weninger, Meng Jiang, Spyridon Mastorakis');
+INSERT into applicant (ID, adminID, year, semester) values (275231409, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (275231409, 'Last', 'Nwazue');
+INSERT into applicantData (ID, category, data) values (275231409, 'First', 'Amarachi');
+INSERT into applicantData (ID, category, data) values (275231409, 'Email', 'godwinowusu98@gmail.com');
+INSERT into applicantData (ID, category, data) values (275231409, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (275231409, 'Citizenship Country', 'Ghana');
+INSERT into applicantData (ID, category, data) values (275231409, 'Area Of Study', 'Data Mining and Machine Learning');
+INSERT into applicantData (ID, category, data) values (275231409, 'School 1 Institution', 'Ghana Communication Technology University');
+INSERT into applicantData (ID, category, data) values (275231409, 'Missing Checklist Items (line break)', 'Application Fee
+CV/Resume
+Post Submission (not required, is optional)
+Statement of Intent');
+INSERT into applicantData (ID, category, data) values (275231409, 'Application Status', 'Awaiting Submission');
+INSERT into applicant (ID, adminID, year, semester) values (493914543, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (493914543, 'Last', 'Ogbonna');
+INSERT into applicantData (ID, category, data) values (493914543, 'First', 'Osondu');
+INSERT into applicantData (ID, category, data) values (493914543, 'Email', 'paridari.alii@gmail.com');
+INSERT into applicantData (ID, category, data) values (493914543, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (493914543, 'Ethnicity (New)', 'Not Hispanic or Latino');
+INSERT into applicantData (ID, category, data) values (493914543, 'Citizenship Country', 'Iran');
+INSERT into applicantData (ID, category, data) values (493914543, 'Area Of Study', 'Computer Architecture');
+INSERT into applicantData (ID, category, data) values (493914543, 'App - Faculty Advisor Name', 'Xiaobo Sharon Hu, Michael Niemier, Siddharth Joshi');
+INSERT into applicantData (ID, category, data) values (493914543, 'School 1 Institution', 'Shahid Beheshti University');
+INSERT into applicantData (ID, category, data) values (493914543, 'Missing Checklist Items (line break)', 'Post Submission
+Post Submission (not required, is optional)
+Reply to Offer of Admission');
+INSERT into applicantData (ID, category, data) values (493914543, 'Application Status', 'Decided');
+INSERT into applicantData (ID, category, data) values (493914543, 'App - Faculty Advisor Name.1', 'Xiaobo Sharon Hu, Michael Niemier, Siddharth Joshi');
+INSERT into applicantData (ID, category, data) values (493914543, 'Department Recommendation', 'Approve');
+INSERT into applicant (ID, adminID, year, semester) values (364644389, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (364644389, 'Last', 'Okolo');
+INSERT into applicantData (ID, category, data) values (364644389, 'First', 'Joy');
+INSERT into applicantData (ID, category, data) values (364644389, 'Email', 'chukwudipaul37@gmail.com');
+INSERT into applicantData (ID, category, data) values (364644389, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (364644389, 'Citizenship Country', 'Nigeria');
+INSERT into applicantData (ID, category, data) values (364644389, 'Area Of Study', 'Security, Privacy, and Cryptography');
+INSERT into applicantData (ID, category, data) values (364644389, 'App - Faculty Advisor Name', 'Nitesh  Chawla, David Chiang, Walter Scheirer');
+INSERT into applicantData (ID, category, data) values (364644389, 'School 1 Institution', 'Ebonyi State University EBSU');
+INSERT into applicantData (ID, category, data) values (364644389, 'Missing Checklist Items (line break)', 'Application Fee
+Post Submission (not required, is optional)');
+INSERT into applicantData (ID, category, data) values (364644389, 'Application Status', 'Awaiting Materials');
+INSERT into applicantData (ID, category, data) values (364644389, 'App - Faculty Advisor Name.1', 'Nitesh  Chawla, David Chiang, Walter Scheirer');
+INSERT into applicant (ID, adminID, year, semester) values (859772888, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (859772888, 'Last', 'Oladipo');
+INSERT into applicantData (ID, category, data) values (859772888, 'First', 'Oluwadamilola');
+INSERT into applicantData (ID, category, data) values (859772888, 'Email', 'pinnakabalavenkatakishore@gmail.com');
+INSERT into applicantData (ID, category, data) values (859772888, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (859772888, 'Citizenship Country', 'India');
+INSERT into applicantData (ID, category, data) values (859772888, 'Area Of Study', 'AI and Machine Learning');
+INSERT into applicantData (ID, category, data) values (859772888, 'App - Faculty Advisor Name', 'Kevin Bowyer, Nitesh Chawla, Walter Scheirer');
+INSERT into applicantData (ID, category, data) values (859772888, 'School 1 Institution', 'Rise Krishna Sai Gandhi Group Of Institutions');
+INSERT into applicantData (ID, category, data) values (859772888, 'Missing Checklist Items (line break)', 'Anohu N, Rise krishna Sai Gandhi  Group Of Institutions
+Application Fee
+Bharathi Devi M, Rise Krishna Sai Gandhi Group Of Institutions
+Koteswara Rao N, Rise Krishna Sai Gandhi Group Of Institutions
+Post Submission (not required, is optional)
+TOEFL or IELTS or Duolingo');
+INSERT into applicantData (ID, category, data) values (859772888, 'Application Status', 'Awaiting Submission');
+INSERT into applicantData (ID, category, data) values (859772888, 'App - Faculty Advisor Name.1', 'Kevin Bowyer, Nitesh Chawla, Walter Scheirer');
+INSERT into applicant (ID, adminID, year, semester) values (768150463, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (768150463, 'Last', 'Olowolafe');
+INSERT into applicantData (ID, category, data) values (768150463, 'First', 'Samuel');
+INSERT into applicantData (ID, category, data) values (768150463, 'Email', 'mpobee@gmail.com');
+INSERT into applicantData (ID, category, data) values (768150463, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (768150463, 'Citizenship Country', 'Ghana');
+INSERT into applicantData (ID, category, data) values (768150463, 'Area Of Study', 'Computer Architecture and Nanotechnology');
+INSERT into applicantData (ID, category, data) values (768150463, 'App - Faculty Advisor Name', 'Christopher Sweet, Aaron Striegel, Douglas Thain');
+INSERT into applicantData (ID, category, data) values (768150463, 'School 1 Institution', 'Ghana Communication Technology University affiliated to Kwame Nkrumah Unv. of Sci.&Tec');
+INSERT into applicantData (ID, category, data) values (768150463, 'Missing Checklist Items (line break)', 'Amevi Acakpovi, Accra Technical University
+Application Fee
+CV/Resume
+Ghana Communication Technology University affiliated to Kwame Nkrumah Unv. of Sci.&Tec
+Isaac Boye, Formerly of Ghana Community Network Services Limited (GCNet)
+Navel Sharma, Academic City University College
+Post Submission (not required, is optional)
+Statement of Intent
+TOEFL or IELTS or Duolingo
+Uttar Pradesh Technical Univ.');
+INSERT into applicantData (ID, category, data) values (768150463, 'Application Status', 'Awaiting Submission');
+INSERT into applicantData (ID, category, data) values (768150463, 'App - Faculty Advisor Name.1', 'Christopher Sweet, Aaron Striegel, Douglas Thain');
+INSERT into applicant (ID, adminID, year, semester) values (492955807, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (492955807, 'Last', 'Omotayo');
+INSERT into applicantData (ID, category, data) values (492955807, 'First', 'Ayomide');
+INSERT into applicantData (ID, category, data) values (492955807, 'Email', 'hs.shamanth@gmail.com');
+INSERT into applicantData (ID, category, data) values (492955807, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (492955807, 'Citizenship Country', 'India');
+INSERT into applicantData (ID, category, data) values (492955807, 'Area Of Study', 'AI and Machine Learning');
+INSERT into applicantData (ID, category, data) values (492955807, 'App - Faculty Advisor Name', 'Dr. Spyridon Mastorakis, Dr. Jane Cleland Huang, Dr. Nitesh Chawla');
+INSERT into applicantData (ID, category, data) values (492955807, 'School 1 Institution', 'Visvesvaraya Tech Univ');
+INSERT into applicantData (ID, category, data) values (492955807, 'Missing Checklist Items (line break)', 'Application Fee
+Application Fee Waiver Request Form
+Post Submission (not required, is optional)');
+INSERT into applicantData (ID, category, data) values (492955807, 'Application Status', 'Awaiting Materials');
+INSERT into applicantData (ID, category, data) values (492955807, 'App - Faculty Advisor Name.1', 'Dr. Spyridon Mastorakis, Dr. Jane Cleland Huang, Dr. Nitesh Chawla');
+INSERT into applicant (ID, adminID, year, semester) values (470587279, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (470587279, 'Last', 'Onayemi');
+INSERT into applicantData (ID, category, data) values (470587279, 'First', 'Hakeem');
+INSERT into applicantData (ID, category, data) values (470587279, 'Email', 'ziheng.song@columbia.edu');
+INSERT into applicantData (ID, category, data) values (470587279, 'Area Of Study', 'Human Computer Interaction');
+INSERT into applicantData (ID, category, data) values (470587279, 'Missing Checklist Items (line break)', 'Application Fee
+CV/Resume
+Post Submission (not required, is optional)
+Statement of Intent
+TOEFL or IELTS or Duolingo');
+INSERT into applicantData (ID, category, data) values (470587279, 'Application Status', 'Awaiting Submission');
+INSERT into applicant (ID, adminID, year, semester) values (744183765, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (744183765, 'Last', 'Owusu');
+INSERT into applicantData (ID, category, data) values (744183765, 'First', 'Godwin');
+INSERT into applicantData (ID, category, data) values (744183765, 'Email', 'sualewumpini@gmail.com');
+INSERT into applicantData (ID, category, data) values (744183765, 'App - Faculty Advisor Name', 'Auther leslie, Samuel Osae, Jabir Yussif');
+INSERT into applicantData (ID, category, data) values (744183765, 'Missing Checklist Items (line break)', 'Application Fee
+CV/Resume
+Post Submission (not required, is optional)
+Statement of Intent
+TOEFL or IELTS or Duolingo');
+INSERT into applicantData (ID, category, data) values (744183765, 'Application Status', 'Awaiting Submission');
+INSERT into applicantData (ID, category, data) values (744183765, 'App - Faculty Advisor Name.1', 'Auther leslie, Samuel Osae, Jabir Yussif');
+INSERT into applicant (ID, adminID, year, semester) values (917474152, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (917474152, 'Last', 'Paridari');
+INSERT into applicantData (ID, category, data) values (917474152, 'First', 'Ali');
+INSERT into applicantData (ID, category, data) values (917474152, 'Email', 'benhurtekeste2020@gmail.com');
+INSERT into applicantData (ID, category, data) values (917474152, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (917474152, 'Citizenship Country', 'Eritrea');
+INSERT into applicantData (ID, category, data) values (917474152, 'Area Of Study', 'Security, Privacy, and Cryptography');
+INSERT into applicantData (ID, category, data) values (917474152, 'App - Faculty Advisor Name', 'Jung, Taeho, Mastorakis, Spyridon, Ye, Yanfang');
+INSERT into applicantData (ID, category, data) values (917474152, 'School 1 Institution', 'Khalifa University');
+INSERT into applicantData (ID, category, data) values (917474152, 'Missing Checklist Items (line break)', 'Application Fee
+Ernesto Damiani, Khalifa University
+Post Submission (not required, is optional)
+Rabeb Mizouni, Khalifa University');
+INSERT into applicantData (ID, category, data) values (917474152, 'Application Status', 'Awaiting Submission');
+INSERT into applicantData (ID, category, data) values (917474152, 'App - Faculty Advisor Name.1', 'Jung, Taeho, Mastorakis, Spyridon, Ye, Yanfang');
+INSERT into applicant (ID, adminID, year, semester) values (646221124, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (646221124, 'Last', 'Paul');
+INSERT into applicantData (ID, category, data) values (646221124, 'First', 'Chukwudi');
+INSERT into applicantData (ID, category, data) values (646221124, 'Email', 'paulin.tshibuabua@aims.ac.rw');
+INSERT into applicantData (ID, category, data) values (646221124, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (646221124, 'Citizenship Country', 'Congo (Kinshasa)');
+INSERT into applicantData (ID, category, data) values (646221124, 'Area Of Study', 'AI and Machine Learning');
+INSERT into applicantData (ID, category, data) values (646221124, 'Missing Checklist Items (line break)', 'Application Fee
+CV/Resume
+Post Submission (not required, is optional)
+Statement of Intent
+TOEFL or IELTS or Duolingo');
+INSERT into applicantData (ID, category, data) values (646221124, 'Application Status', 'Awaiting Submission');
+INSERT into applicant (ID, adminID, year, semester) values (224644639, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (224644639, 'Last', 'Pinnaka');
+INSERT into applicantData (ID, category, data) values (224644639, 'First', 'Bala Venkata Kishore Chowdary');
+INSERT into applicantData (ID, category, data) values (224644639, 'Email', 'ositaukwuaba@gmail.com');
+INSERT into applicantData (ID, category, data) values (224644639, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (224644639, 'Citizenship Country', 'Nigeria');
+INSERT into applicantData (ID, category, data) values (224644639, 'Area Of Study', 'AI and Machine Learning');
+INSERT into applicantData (ID, category, data) values (224644639, 'App - Faculty Advisor Name', 'Walter Scheirer, Kevin Bowyer, David Chiang');
+INSERT into applicantData (ID, category, data) values (224644639, 'School 1 Institution', 'Georgia Institute of Technolog');
+INSERT into applicantData (ID, category, data) values (224644639, 'Missing Checklist Items (line break)', 'Application Fee
+CV/Resume
+David Joyner, Georgia Institute of Technology
+Oge Nnadi, Orprise Solutions
+Post Submission (not required, is optional)
+Priscilla Daveugwu, University of Nigeria Nsukka
+Statement of Intent
+TOEFL or IELTS or Duolingo
+Zsolt Kira, Georgia Institute of Technology');
+INSERT into applicantData (ID, category, data) values (224644639, 'Application Status', 'Awaiting Submission');
+INSERT into applicantData (ID, category, data) values (224644639, 'App - Faculty Advisor Name.1', 'Walter Scheirer, Kevin Bowyer, David Chiang');
+INSERT into applicant (ID, adminID, year, semester) values (778099871, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (778099871, 'Last', 'Pobee');
+INSERT into applicantData (ID, category, data) values (778099871, 'First', 'Mark');
+INSERT into applicantData (ID, category, data) values (778099871, 'Email', 'ushaqhadia2@gmail.com');
+INSERT into applicantData (ID, category, data) values (778099871, 'Sex', 'F');
+INSERT into applicantData (ID, category, data) values (778099871, 'Citizenship Country', 'Pakistan');
+INSERT into applicantData (ID, category, data) values (778099871, 'Area Of Study', 'Wireless, Mobile, and Embedded Systems');
+INSERT into applicantData (ID, category, data) values (778099871, 'Missing Checklist Items (line break)', 'Application Fee
+CV/Resume
+Post Submission (not required, is optional)
+Statement of Intent');
+INSERT into applicantData (ID, category, data) values (778099871, 'Application Status', 'Awaiting Submission');
+INSERT into applicant (ID, adminID, year, semester) values (82445559, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (82445559, 'Last', 'Shashidhara');
+INSERT into applicantData (ID, category, data) values (82445559, 'First', 'Shamanth');
+INSERT into applicantData (ID, category, data) values (82445559, 'Email', 'vandivalentine@gmail.com');
+INSERT into applicantData (ID, category, data) values (82445559, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (82445559, 'Citizenship Country', 'Nigeria');
+INSERT into applicantData (ID, category, data) values (82445559, 'Area Of Study', 'AI and Machine Learning');
+INSERT into applicantData (ID, category, data) values (82445559, 'App - Faculty Advisor Name', 'Meng Jiang, Tim Weninger, David Chiang');
+INSERT into applicantData (ID, category, data) values (82445559, 'School 1 Institution', 'Xian jiaotong Liverpool University');
+INSERT into applicantData (ID, category, data) values (82445559, 'Missing Checklist Items (line break)', 'Application Fee
+CV/Resume
+Post Submission (not required, is optional)
+Statement of Intent');
+INSERT into applicantData (ID, category, data) values (82445559, 'Application Status', 'Awaiting Submission');
+INSERT into applicantData (ID, category, data) values (82445559, 'App - Faculty Advisor Name.1', 'Meng Jiang, Tim Weninger, David Chiang');
+INSERT into applicant (ID, adminID, year, semester) values (454016916, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (454016916, 'Last', 'Song');
+INSERT into applicantData (ID, category, data) values (454016916, 'First', 'Ziheng');
+INSERT into applicantData (ID, category, data) values (454016916, 'Email', 'abelzuestc@outlook.com');
+INSERT into applicantData (ID, category, data) values (454016916, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (454016916, 'Citizenship Country', 'Ethiopia');
+INSERT into applicantData (ID, category, data) values (454016916, 'Area Of Study', 'Computer Vision, Medical Imaging, and Biometrics');
+INSERT into applicantData (ID, category, data) values (454016916, 'App - Faculty Advisor Name', 'Prof. Kevin Bowyer, Prof. Walter Scheirer, Prof. Patrick J. Flynn');
+INSERT into applicantData (ID, category, data) values (454016916, 'School 1 Institution', 'University of Electronic Science and Technology of China');
+INSERT into applicantData (ID, category, data) values (454016916, 'Missing Checklist Items (line break)', 'Jiandong Guo, University of Electronic Science and Technology of China
+Post Submission (not required, is optional)');
+INSERT into applicantData (ID, category, data) values (454016916, 'Application Status', 'Awaiting Decision');
+INSERT into applicantData (ID, category, data) values (454016916, 'App - Faculty Advisor Name.1', 'Prof. Kevin Bowyer, Prof. Walter Scheirer, Prof. Patrick J. Flynn');
+INSERT into applicant (ID, adminID, year, semester) values (421057706, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (421057706, 'Last', 'Suale');
+INSERT into applicantData (ID, category, data) values (421057706, 'First', 'Musah Wumpini');
+INSERT into applicantData (ID, category, data) values (421057706, 'Email', 'shuibai.cheung@gmail.com');
+INSERT into applicantData (ID, category, data) values (421057706, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (421057706, 'Citizenship Country', 'China');
+INSERT into applicantData (ID, category, data) values (421057706, 'Area Of Study', 'Natural Language Processing');
+INSERT into applicantData (ID, category, data) values (421057706, 'App - Faculty Advisor Name', 'Zhang, Xiangliang');
+INSERT into applicantData (ID, category, data) values (421057706, 'School 1 Institution', 'University of Glasgow');
+INSERT into applicantData (ID, category, data) values (421057706, 'Missing Checklist Items (line break)', 'Application Fee
+Bo Liu, University of Glasgow
+CV/Resume
+Post Submission (not required, is optional)
+Statement of Intent
+Yue Zhang, Westlake University');
+INSERT into applicantData (ID, category, data) values (421057706, 'Application Status', 'Awaiting Submission');
+INSERT into applicantData (ID, category, data) values (421057706, 'App - Faculty Advisor Name.1', 'Zhang, Xiangliang');
+INSERT into applicant (ID, adminID, year, semester) values (659505505, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (659505505, 'Last', 'Tekeste');
+INSERT into applicantData (ID, category, data) values (659505505, 'First', 'Benhur');
+INSERT into applicantData (ID, category, data) values (659505505, 'Email', 'wz1305@uchicago.edu');
+INSERT into applicantData (ID, category, data) values (659505505, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (659505505, 'Citizenship Country', 'China');
+INSERT into applicantData (ID, category, data) values (659505505, 'Area Of Study', 'Wireless, Mobile, and Embedded Systems');
+INSERT into applicantData (ID, category, data) values (659505505, 'App - Faculty Advisor Name', 'Kong, Fanxin, Shi, Yiyu, Hu, Xiaobo Sharon');
+INSERT into applicantData (ID, category, data) values (659505505, 'School 1 Institution', 'University of Chicago');
+INSERT into applicantData (ID, category, data) values (659505505, 'Missing Checklist Items (line break)', 'Application Fee
+Post Submission (not required, is optional)
+Statement of Intent
+TOEFL or IELTS or Duolingo');
+INSERT into applicantData (ID, category, data) values (659505505, 'Application Status', 'Awaiting Submission');
+INSERT into applicantData (ID, category, data) values (659505505, 'App - Faculty Advisor Name.1', 'Kong, Fanxin, Shi, Yiyu, Hu, Xiaobo Sharon');
+INSERT into applicant (ID, adminID, year, semester) values (419888961, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (419888961, 'Last', 'Tshiunza Tshibuabua');
+INSERT into applicantData (ID, category, data) values (419888961, 'First', 'Paulin');
+INSERT into applicantData (ID, category, data) values (419888961, 'Email', 'zczhu06@163.com');
+INSERT into applicantData (ID, category, data) values (419888961, 'Area Of Study', 'AI and Machine Learning');
+INSERT into applicantData (ID, category, data) values (419888961, 'Missing Checklist Items (line break)', 'Application Fee
+CV/Resume
+Post Submission (not required, is optional)
+Statement of Intent
+TOEFL or IELTS or Duolingo');
+INSERT into applicantData (ID, category, data) values (419888961, 'Application Status', 'Awaiting Submission');
+INSERT into applicant (ID, adminID, year, semester) values (132526825, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (132526825, 'Last', 'Ukwuaba');
+INSERT into applicantData (ID, category, data) values (132526825, 'First', 'Osita');
+INSERT into applicantData (ID, category, data) values (132526825, 'Email', '201930400391@mail.scut.edu.cn');
+INSERT into applicantData (ID, category, data) values (132526825, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (132526825, 'Citizenship Country', 'China');
+INSERT into applicantData (ID, category, data) values (132526825, 'Area Of Study', 'AI and Machine Learning');
+INSERT into applicantData (ID, category, data) values (132526825, 'App - Faculty Advisor Name', 'Zhang, Xiangliang');
+INSERT into applicantData (ID, category, data) values (132526825, 'School 1 Institution', 'South China Univ of Technology');
+INSERT into applicantData (ID, category, data) values (132526825, 'Missing Checklist Items (line break)', 'Post Submission (not required, is optional)');
+INSERT into applicantData (ID, category, data) values (132526825, 'Application Status', 'Awaiting Decision');
+INSERT into applicantData (ID, category, data) values (132526825, 'App - Faculty Advisor Name.1', 'Zhang, Xiangliang');
+INSERT into applicant (ID, adminID, year, semester) values (132526826, 1, 2024, 'spring');
+INSERT into applicantData (ID, category, data) values (132526826, 'Last', 'Ushaq');
+INSERT into applicantData (ID, category, data) values (132526826, 'First', 'Hadia');
+INSERT into applicantData (ID, category, data) values (132526826, 'Email', '201930400391@mail.scut.edu.cn');
+INSERT into applicantData (ID, category, data) values (132526826, 'Sex', 'M');
+INSERT into applicantData (ID, category, data) values (132526826, 'Citizenship Country', 'China');
+INSERT into applicantData (ID, category, data) values (132526826, 'Area Of Study', 'Security, Privacy, and Cryptography');
+INSERT into applicantData (ID, category, data) values (132526826, 'School 1 Institution', 'South China Univ of Technology');
+INSERT into applicantData (ID, category, data) values (132526826, 'Missing Checklist Items (line break)', 'Application Fee
+CV/Resume
+Post Submission (not required, is optional)
+Statement of Intent');
+INSERT into applicantData (ID, category, data) values (132526826, 'Application Status', 'Awaiting Submission');
+
+
+INSERT into faculty (ID, last, first, email) values(2, 'Bowyer', 'Kevin', 'kwb@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(3, 'Brockman', 'Jay', 'jbb@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(4, 'Bualuan', 'Ramzi', 'rbualuan@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(5, 'Bui', 'Peter', 'pbui@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(6, 'Chawla', 'Nitesh', 'nchawla@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(7, 'Chen', 'Danny', 'dchen@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(8, 'Chiang', 'David', 'dchiang@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(9, 'Cleland-Huang', 'Jane', 'jhuang13@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(10, 'Czajka', 'Adam', 'aczajka@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(11, 'Dingler', 'Aaron', 'adingler@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(12, 'Flynn', 'Patrick', 'flynn@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(13, 'Gómez-Zará', 'Diego', 'dgomezara@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(14, 'Henry', 'Eugene', 'ehenry@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(15, 'Hu', 'Xiaobo Sharon', 'shu@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(16, 'Jiang', 'Meng', 'mjiang2@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(17, 'Joshi', 'Siddharth', 'sjoshi2@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(18, 'Jung', 'Taeho', 'tjung@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(19, 'Kogge', 'Peter', 'kogge@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(20, 'Kong', 'Fanxin', 'fkong@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(21, 'Kumar', 'Shreya', 'shreya.kumar@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(22, 'Levis', 'Megan', 'mlevis@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(23, 'Li', 'Toby Jia-Jun', 'toby.j.li@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(24, 'Mastorakis', 'Spyridon', 'smastor2@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(25, 'McMillan', 'Collin', 'collin.mcmillan@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(26, 'Metoyer', 'Ronald', 'rmetoyer@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(27, 'Milenkovic', 'Tijana', 'tmilenko@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(28, 'Morrison', 'Matthew', 'mmorri22@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(29, 'Niemier', 'Michael', 'mniemier@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(30, 'da Silva Santos', 'Joanna Cecilia', 'jdasilv2@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(31, 'Scheirer', 'Walter', 'walter.scheirer@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(32, 'Shi', 'Yiyu', 'yshi4@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(33, 'Striegel', 'Aaron', 'striegel@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(34, 'Sweet', 'Christopher', 'csweet1@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(35, 'Taylor', 'Ian', 'ian.j.taylor@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(36, 'Thain', 'Douglas', 'dthain@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(37, 'Vardeman', 'Charles', 'cvardema@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(38, 'Walden', 'Katherine', 'kwalden@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(39, 'Wang', 'Chaoli', 'chaoli.wang@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(40, 'Weninger', 'Tim', 'tweninge@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(41, 'Fe', 'Yanfang (Fanny)', 'yye7@nd.edu'); 
+INSERT into faculty (ID, last, first, email) values(42, 'Zhang', 'Xiangliang (Lynn)', 'xzhang33@nd.edu'); 
+
+from IPython.display import display
+import pandas as pd
+
+df = pd.read_excel('2024PhDSpringSCRAMBLED.xlsx', engine = 'openpyxl')
+df = df.reset_index()
+
+columnNames = []
+for x in df:
+  columnNames.append(x)
+
+
+for n, x in df.iterrows():
+  if n < 1:
+    continue
+  applicantID = x.iloc[1]
+  print(f'INSERT into applicant (ID, adminID, year, semester) values ({applicantID}, 1, 2024, \'spring\');')
+  for i in range(2, len(columnNames)):
+    if ('Unnamed:' in columnNames[i]) or (x.iloc[i] == '') or (str(x.iloc[i]).lower() == 'nan'):
+      continue
+    print(f'INSERT into applicantData (ID, category, data) values ({applicantID}, \'{columnNames[i]}\', \'{x.iloc[i]}\');')
+
+
+# below is the loop I used to create the sql commands for the faculty 
+'''
+df = pd.read_excel('NDCSEFaculty.xlsx', engine='openpyxl')
+df = df.reset_index()
+
+for v, x in df.iterrows():
+    print(f'INSERT into faculty (ID, last, first, email) values({x.iloc[1]}, \'{x.iloc[2]}\', \'{x.iloc[3]}\', \'{x.iloc[4]}\'); ')
+'''
+
+concat(faculty.first, ' ', faculty.last) as "Assigned Reviewer Name"
+select applicant.ID as "Applicant Name", concat(admin.first,' ', admin.last) as "Admin Name", IF(isnull(applicant.reviewerID), "no reviewer assigned", (select concat(first, " ", last) from applicant, faculty where applicant.reviewerID = faculty.ID)) as "Assigned Reviewer", currentReviewStatus, IFNULL(decisionToInvite, "undecided"), IFNULL(decisionToAdmit, "undecided")   from applicant, admin where applicant.adminID = admin.ID and applicant.year = 2024 and applicant.semester = "spring";
+
+select faculty.first, faculty.last from faculty where id = 5;
+
+select ID, IF(isnull(applicant.reviewerID), "no reviewer assigned", (select concat(first, " ", last) from applicant, faculty where applicant.reviewerID = faculty.ID)) from applicant;
